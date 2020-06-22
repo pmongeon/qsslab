@@ -7,8 +7,6 @@ superuser: true
 authors:
   - admin
 bio: Short bio
-interests:
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,9 +17,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-education:
-  courses: []
-email: ""
+email: "qsslab@dal.ca"
 user_groups:
   - ""
 ---
