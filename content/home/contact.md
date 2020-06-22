@@ -19,7 +19,7 @@ email_form = 0
 +++
 
 Quantitative Science Studies Lab <br>
-School of Information Managemen <br>
+School of Information Management <br>
 Dalhousie University
 
 
