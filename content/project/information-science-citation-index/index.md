@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The main goal of this project is to build a tool delve into the composition and history of the Information Science field in Canada.Phi
+The main goal of this project is to build a tool delve into the composition and history of the Information Science field in Canada.
