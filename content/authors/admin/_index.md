@@ -2,9 +2,7 @@
 title: QSS Lab
 role: ""
 avatar_filename: avatar.jpg
-organizations:
-  - name: Sim
-    url: ""
+organizations: []
 superuser: true
 authors:
   - admin
