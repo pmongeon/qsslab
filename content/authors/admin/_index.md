@@ -1,5 +1,5 @@
 ---
-title: Quantitative Science Studies Lab
+title: QSS Lab
 role: ""
 avatar_filename: avatar.jpg
 organizations:
