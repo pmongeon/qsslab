@@ -18,3 +18,5 @@ autolink = true
 email_form = 2
 +++
 
+This is the way to go 
+
