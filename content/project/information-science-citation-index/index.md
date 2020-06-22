@@ -11,7 +11,7 @@ authors:
   - Ratna Dhaliwal
   - Yifan Liu
   - Vinson Li
-external_link: pmongeon.github.io
+external_link: Information-Science-Citation-Index
 links: []
 image:
   filename: featured
