@@ -18,9 +18,9 @@ autolink = true
 email_form = 0
 +++
 
-Quantitative Science Studies Lab,
-School of Information Managemen,
+Quantitative Science Studies Lab <br><br>
+School of Information Managemen <br><br>
 Dalhousie University
-qsslab@dal.ca
+
 
 
