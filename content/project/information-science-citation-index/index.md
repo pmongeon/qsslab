@@ -10,7 +10,6 @@ authors:
   - Cora-Lynn Munroe-Lynds
   - Yifan Liu
   - Vinson Li
-links: []
 image:
   filename: featured
   focal_point: Smart
