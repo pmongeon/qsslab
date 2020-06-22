@@ -11,14 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-email: "qsslab@dal.ca"
+
+email: ""
 user_groups:
   - ""
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+The Quantitative Science Studies Lab is a reserch group located at the School of Information Management (SIM), which is part of the Faculty of Management of Dalhousie University. It is directed by Philippe Mongeon, assistant professor at the School.
+
+The research agenda of the Lab can be divided into four broad themes, all aimed at advancing knowledge on the social and informational dynamics of science and its interaction with societal actors, issues and goals.
