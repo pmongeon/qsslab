@@ -11,7 +11,7 @@ authors:
   - Ratna Dhaliwal
   - Yifan Liu
   - Vinson Li
-external_link: Information-Science-Citation-Index
+external_link: project/information-science-citation-index/
 links: []
 image:
   filename: featured
