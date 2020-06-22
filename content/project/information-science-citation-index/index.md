@@ -8,7 +8,6 @@ authors:
   - Philippe Mongeon
   - Emily McClean
   - Cora-Lynn Munroe-Lynds
-  - Ratna Dhaliwal
   - Yifan Liu
   - Vinson Li
 external_link: project/information-science-citation-index/
