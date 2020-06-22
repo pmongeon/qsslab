@@ -10,7 +10,6 @@ authors:
   - Cora-Lynn Munroe-Lynds
   - Yifan Liu
   - Vinson Li
-external_link: project/information-science-citation-index/
 links: []
 image:
   filename: featured
