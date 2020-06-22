@@ -1,0 +1,21 @@
+---
+title: Information Science Citation Index
+subtitle: Exploring the history of the information field in Canada
+date: 2020-06-22T03:29:42.878Z
+draft: false
+featured: false
+authors:
+  - Philippe Mongeon
+  - Emily McClean
+  - Cora-Lynn Munroe-Lynds
+  - Ratna Dhaliwal
+  - Yifan Liu
+  - Vinson Li
+external_link: pmongeon.github.io
+links: []
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
+The main goal of this project is to build a tool delve into the composition and history of the Information Science field in Canada.Phi
