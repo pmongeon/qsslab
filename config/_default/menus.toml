@@ -14,6 +14,11 @@
   weight = 40
 
 [[main]]
+  name = "Research themes"
+  url = "/themes/"
+  weight = 25
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
