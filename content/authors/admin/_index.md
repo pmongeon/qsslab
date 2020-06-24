@@ -1,49 +1,16 @@
 ---
-title: Nelson Bighetti
-role: Professor of Information Management
+role: ""
 avatar_filename: avatar.jpg
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+bio: Short bio
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Quantitative Science Studies Lab is a reserch group located at the School of Information Management (SIM), which is part of the Faculty of Management of Dalhousie University. It is directed by Philippe Mongeon, assistant professor at the School.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The research agenda of the Lab can be divided into [four broad themes](/content/themes/), all aimed at advancing knowledge on the social and informational dynamics of science and its interaction with societal actors, issues and goals.
