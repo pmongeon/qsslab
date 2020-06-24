@@ -18,9 +18,6 @@ autolink = true
 email_form = 1
 +++
 
-Quantitative Science Studies Lab <br>
-School of Information Management <br>
-Dalhousie University
 
 
 
