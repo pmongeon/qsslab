@@ -1,6 +1,6 @@
 ---
 role: ""
-# avatar_filename: avatar.jpg
+avatar_filename: ""
 organizations: []
 superuser: true
 authors:
