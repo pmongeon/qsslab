@@ -1,6 +1,5 @@
 ---
 role: ""
-avatar_filename: ""
 organizations: []
 superuser: true
 authors:
