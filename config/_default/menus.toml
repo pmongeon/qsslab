@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Research themes"
-  url = "/themes/"
+  url = "#slider"
   weight = 25
 
 [[main]]
