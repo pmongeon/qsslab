@@ -12,4 +12,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The goal of this project is to better understand how reserachers use Twitter to share scholarly work and engage in discussions related to different social issues.
+The goal of this project is to better understand how researchers use social media to share scholarly work and engage in public discussions around different social issues.
