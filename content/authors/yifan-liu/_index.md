@@ -19,4 +19,4 @@ My undergrad research used quantitative analysis to collect and analyze user’s
 
 ## Publications
 Palanisamy, R., & Liu, Y. (2018, December). Users’ search satisfaction in search engine 
-optimization. In <italic>International Conference on Computer Networks, Big data and IoT </italic>(pp. 1035-1045). Springer, Cham. https://doi.org/10.1007/978-3-030-24643-3_124  
+optimization. In *International Conference on Computer Networks, Big data and IoT* (pp. 1035-1045). Springer, Cham. https://doi.org/10.1007/978-3-030-24643-3_124  
