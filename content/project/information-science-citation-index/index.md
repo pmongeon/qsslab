@@ -1,6 +1,6 @@
 ---
-title: Information Science Citation Index
-subtitle: Exploring the history of the information field in Canada
+title: Canadian research in the information field
+subtitle: An open data project
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
@@ -10,6 +10,7 @@ authors:
   - Cora-Lynn Munroe-Lynds
   - Yifan Liu
   - Vinson Li
+  - Marc-André Simard
 image:
   filename: featured
   focal_point: Smart
