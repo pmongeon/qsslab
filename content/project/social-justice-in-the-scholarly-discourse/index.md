@@ -7,8 +7,8 @@ featured: false
 authors:
   - Ratna Dhaliwal
   - Philippe Mongeon
-tag:
-  - "Responsible Research and Innovation"
+tags:
+  - Responsible Research and Innovation
 image:
   filename: featured
   focal_point: Smart

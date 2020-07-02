@@ -4,8 +4,8 @@ subtitle:
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
-tag:
-  - "Science and Social Media"
+tags:
+  - Science and Social Media
 authors:
   - Philippe Mongeon
   - Yifan Liu
