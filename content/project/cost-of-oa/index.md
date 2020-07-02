@@ -1,5 +1,5 @@
 ---
-title: The Open Access as a capitalist engine
+title: Open Access as a capitalist engine
 subtitle: 
 date: 2020-06-22T03:29:42.878Z
 draft: false
