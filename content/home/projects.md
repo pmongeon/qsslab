@@ -30,8 +30,8 @@ subtitle = ""
      tag = "Open Science"
   
    [[content.filter_button]]
-     name = "Knowledge production, dissemination and use"
-     tag = "Knowledge production, dissemination and use"
+     name = "Knowledge production dissemination and use"
+     tag = "Knowledge production dissemination and use"
      
    [[content.filter_button]]
      name = "Research Evaluation, Governance, and Policy"
