@@ -30,12 +30,12 @@ subtitle = ""
      tag = "Open Science"
   
    [[content.filter_button]]
-     name = "Knowledge production dissemination and use"
-     tag = "Knowledge production dissemination and use"
+     name = "Scholarly Communication"
+     tag = "Scholarly Communication"
      
    [[content.filter_button]]
-     name = "Research Evaluation, Governance, and Policy"
-     tag = "Research Evaluation, Governance, and Policy"
+     name = "Research Governance"
+     tag = "Research Governance"
 
    [[content.filter_button]]
      name = "Science and Social Media"
