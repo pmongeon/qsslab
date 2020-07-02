@@ -1,5 +1,5 @@
 ---
-title: Attention to social justice in the academic literature
+title: Social justice in academia
 subtitle: 
 date: 2020-06-22T03:29:42.878Z
 draft: false
