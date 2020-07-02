@@ -8,6 +8,7 @@ tags:
   - Knowledge production, dissemination and use
 authors:
   - Philippe Mongeon
+  - Marc-André Simard
 image:
   filename: featured
   focal_point: Smart
