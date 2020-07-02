@@ -7,6 +7,8 @@ featured: false
 authors:
   - Ratna Dhaliwal
   - Philippe Mongeon
+tag:
+  - "RRI"
 image:
   filename: featured
   focal_point: Smart
