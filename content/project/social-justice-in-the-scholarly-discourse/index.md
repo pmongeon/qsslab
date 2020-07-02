@@ -8,7 +8,7 @@ authors:
   - Ratna Dhaliwal
   - Philippe Mongeon
 tags:
-  - Responsible Research and Innovation
+  - RRI
 image:
   filename: featured
   focal_point: Smart
