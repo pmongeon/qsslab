@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All projects"
+     name = "All"
      tag = "*"
   
    [[content.filter_button]]
@@ -34,16 +34,16 @@ subtitle = ""
      tag = "Scholarly Communication"
      
    [[content.filter_button]]
-     name = "Research Governance"
-     tag = "Research Governance"
+     name = "Governance"
+     tag = "Governance"
 
    [[content.filter_button]]
-     name = "Science and Social Media"
-     tag = "Science and Social Media"
+     name = "Social Media"
+     tag = "Social Media"
 
    [[content.filter_button]]
-     name = "Responsible Research and Innovation"
-     tag = "Responsible Research and Innovation"
+     name = "RRI"
+     tag = "RRI"
 
 
 [design]
