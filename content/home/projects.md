@@ -21,17 +21,30 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "All projects"
+     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Open Science"
+     tag = "Open Science"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Knowledge production, dissemination and use"
+     tag = "Knowledge production, dissemination and use"
+     
+   [[content.filter_button]]
+     name = "Research Evaluation, Governance, and Policy"
+     tag = "Research Evaluation, Governance, and Policy"
+
+   [[content.filter_button]]
+     name = "Science and Social Media"
+     tag = "Science and Social Media"
+
+   [[content.filter_button]]
+     name = "Responsible Research and Innovation"
+     tag = "Responsible Research and Innovation"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
