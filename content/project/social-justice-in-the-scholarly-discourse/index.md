@@ -1,5 +1,5 @@
 ---
-title: Attention to social justice in the academic literature
+title: Science and social justice
 subtitle: 
 date: 2020-06-22T03:29:42.878Z
 draft: false
@@ -7,6 +7,8 @@ featured: false
 authors:
   - Ratna Dhaliwal
   - Philippe Mongeon
+tags:
+  - RRI
 image:
   filename: featured
   focal_point: Smart
