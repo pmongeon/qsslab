@@ -15,3 +15,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.

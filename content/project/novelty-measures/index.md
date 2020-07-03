@@ -1,6 +1,6 @@
 ---
-title: Fostering novelty and risk taking in research
-subtitle: The case of the Villum Experiment
+title: A critical review of measures of research novelty
+subtitle:
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
