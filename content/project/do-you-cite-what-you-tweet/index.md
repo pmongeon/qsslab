@@ -8,6 +8,7 @@ tags:
   - Social Media
 authors:
   - Philippe Mongeon
+  - Timothy D Bowman
 image:
   filename: featured
   focal_point: Smart
