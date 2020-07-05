@@ -17,7 +17,6 @@ image:
   preview_only: false
 ---
 
-## Main goal
 The main goal of this project is to build a tool to delve into the composition and history of the Information Science field.
 
 The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.
