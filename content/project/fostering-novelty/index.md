@@ -6,6 +6,9 @@ draft: false
 featured: false
 tags:
   - Governance
+  - Funding
+  - Innovation
+  - Villum Experiment
 authors:
   - Philippe Mongeon
 image:
@@ -14,7 +17,12 @@ image:
   preview_only: false
 ---
 
-The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.
+The Villum Experiment is a funding program aimed at supporting bold, risky, and truly innovative research ideas that are unlikely to be supported by traditional funding sources. This project aims to provide empirical evidence of the effectiveness of the program by answering the following research questions:
+
+- How innovative are the research proposals received?
+- Does the Villum experiment fund the most innovative research proposals?
+- How distant are the research proposals to the applicants prior work?
+
 
 
 
