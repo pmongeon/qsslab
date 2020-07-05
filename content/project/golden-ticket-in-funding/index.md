@@ -19,6 +19,6 @@ image:
   preview_only: false
 ---
 
-This research in progress uses a game theory framework to investigate the use of the golden ticket by reviewers and its effect on the review outcome of the last three iterations (2017-2019) of the Villum Experiment. More specifically we aim to answer the following research questions:
+In this project hosted by the Danish Centre for Studies in Research and Research Policy (CFA) we use game theory to investigate the use of the golden ticket by reviewers and its effect on the review outcome of the last three iterations (2017-2019) of the Villum Experiment. More specifically we aim to answer the following research questions:
 - How do reviewers use their golden ticket?
 - How effective are the golden tickets in getting otherwise unsuccessful proposals funded?
