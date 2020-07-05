@@ -8,6 +8,7 @@ tags:
   - Governance
   - Peer-review
   - Funding
+  - Villum Experiement
 authors:
   - Philippe Mongeon
   - Kristof Van Criekingen 
@@ -19,6 +20,6 @@ image:
   preview_only: false
 ---
 
-In this project hosted by the Danish Centre for Studies in Research and Research Policy (CFA) we use game theory to investigate the use of the golden ticket by reviewers and its effect on the review outcome of the last three iterations (2017-2019) of the Villum Experiment. More specifically we aim to answer the following research questions:
+In this project hosted by the [Danish Centre for Studies in Research and Research Policy (CFA)](https://ps.au.dk/en/research/research-centres/the-danish-centre-for-studies-in-research-and-research-policy/) we use game theory to investigate the use of the golden ticket by reviewers and its effect on the review outcome of the last three iterations (2017-2019) of the Villum Experiment. More specifically we aim to answer the following research questions:
 - How do reviewers use their golden ticket?
 - How effective are the golden tickets in getting otherwise unsuccessful proposals funded?
