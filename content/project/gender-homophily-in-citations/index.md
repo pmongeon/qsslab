@@ -6,6 +6,8 @@ draft: false
 featured: false
 tags:
   - Scholarly Communication
+  - Gender
+  - Information Behavior
 authors:
   - Gita Ghiasi
   - Philippe Mongeon
