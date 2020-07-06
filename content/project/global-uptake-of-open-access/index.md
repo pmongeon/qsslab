@@ -14,7 +14,11 @@ image:
   preview_only: false
 ---
 
-The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.
+The purpose of this paper is to provide a global picture of the current state of OA adoption by countries, using two indicators: publications in OA and references to articles in OA. Our research questions are as follows:
+- What proportion of the scientific output of countries is Open Access?
+- To what extent are different countries citing literature in open access?
+- Does OA publications correlate with OA references at the country level?
+- How does OA usage relate to the level of income of countries?
 
 
 
