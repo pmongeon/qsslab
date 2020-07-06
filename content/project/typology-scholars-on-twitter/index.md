@@ -19,7 +19,7 @@ image:
   preview_only: false
 ---
 
-This projects investigates the different ways in which researchers share scholarly works on Twitter, using the socio-topical distance approach proposed by Mongeon (2018). The research questions are as follows:
+This project investigates the different ways in which researchers share scholarly works on Twitter using the socio-topical distance approach proposed by Mongeon (2018). The research questions are as follows:
 - What types of Twitter use can be identified using the socio-topical distance approach?
 - How are researchers distributed accross the types?
 - Are there disciplinary differences in these distributions?
