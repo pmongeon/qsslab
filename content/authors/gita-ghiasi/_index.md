@@ -1,8 +1,8 @@
 ---
 title: Gita Ghiasi
-role: 
+role: Research Officer, IVADO, Université de Montréal
 avatar_filename: avatar.jpg
 superuser: false
-# user_groups:
-#  - Collaborators
+user_groups:
+ - Collaborators
 ---
