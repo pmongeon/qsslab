@@ -13,10 +13,13 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
 ---
 
-The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.
 
+This project investigates how knowledge communities are developed and delineated through scholarly journals. The concept of journal scope is brought to the forefront and measured with a novel indicator that enables to compare the social and topical structures of different journals and seek explanations for the observed differences. 
 
-
-
+The main research questions are:
+- What is the scope of a journal and how can it be quantified?
+- How does the journal scope evolve over time?
+- Are there specific factors that can inflience the empirical scope of journals?
