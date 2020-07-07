@@ -1,8 +1,8 @@
 ---
 title: Yaxi Zhao
-role: PhD Student, Faculty of Information Studies, University of Toronto
+role: PhD Student, University of Toronto
 avatar_filename: avatar.jpg
 superuser: false
-# user_groups:
-#  - Collaborators
+user_groups:
+ - Collaborators
 ---
