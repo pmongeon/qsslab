@@ -6,8 +6,12 @@ draft: false
 featured: false
 tags:
   - Open Science
+  - Scholarly Communication
 authors:
+  - Gita Ghiasi
+  - Vincent Larivière
   - Philippe Mongeon
+  - Marc-André Simard
 image:
   filename: featured
   focal_point: Smart
