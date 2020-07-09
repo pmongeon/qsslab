@@ -10,7 +10,7 @@ tags:
   - Scholarly Communication
   - Citizen Science
 authors:
-  - Nuria Baustista Puig
+  - Nuria Bautista Puig
   - Philippe Mongeon
 image:
   filename: featured
