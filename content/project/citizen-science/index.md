@@ -6,6 +6,9 @@ draft: false
 featured: false
 tags:
   - Open Science
+  - RRI
+  - Scholarly Communication
+  - Citizen Science
 authors:
   - Nuria Baustista Puig
   - Philippe Mongeon
