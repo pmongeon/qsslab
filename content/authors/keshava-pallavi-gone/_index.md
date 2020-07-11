@@ -6,7 +6,7 @@ superuser: false
 user_groups:
   - Researchers
 social:
-- icon: linkedin-square
+- icon: fa-linkedin-square
   icon_pack: fab
   link: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 ---
