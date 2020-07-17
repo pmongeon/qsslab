@@ -1,6 +1,11 @@
 ---
 title: Isabelle Dorsch
 role: PhD Candidate, Heinrich-Heine-Universität Düsseldorf
+
+organizations:
+- name: Heinrich-Heine-Universität Düsseldorf
+  url: "https://www.isi.hhu.de/nc/en/departments/department-of-information-science/staff/detailseite.html?tt_address%5Bperson%5D=15696&tt_address%5Bfunktion%5D=23019"
+
 avatar_filename: avatar.jpg
 bio: I am a PhD candidate, research associate and lecturer at the Department of Information Science at the Heinrich Heine University Düsseldorf in Germany.
 superuser: false
