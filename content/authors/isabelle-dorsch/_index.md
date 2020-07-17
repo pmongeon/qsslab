@@ -6,6 +6,17 @@ bio: I am a PhD candidate, research associate and lecturer at the Department of 
 superuser: false
 user_groups:
   - Collaborators
+  
+social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/bezwitschernd
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Isabelle_Dorsch
+- icon: globe
+  icon_pack: fab
+  link: https://www.isi.hhu.de/nc/en/departments/department-of-information-science/staff/detailseite.html?tt_address%5Bperson%5D=15696&tt_address%5Bfunktion%5D=23019
 ---
 
 # About me
