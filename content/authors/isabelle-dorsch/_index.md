@@ -14,7 +14,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Isabelle_Dorsch
-- icon: "fa-globe"
+- icon: globe
   icon_pack: fab
   link: https://www.isi.hhu.de/nc/en/departments/department-of-information-science/staff/detailseite.html?tt_address%5Bperson%5D=15696&tt_address%5Bfunktion%5D=23019
 ---
