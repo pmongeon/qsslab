@@ -46,7 +46,7 @@ social:
 #  link: files/mongeon_cv.pdf
 
 user_groups:
-  - Director
+  - Researchers
 ---
 
 # About me
