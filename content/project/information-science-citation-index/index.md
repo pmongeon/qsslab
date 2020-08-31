@@ -1,5 +1,5 @@
 ---
-title: Canadian research in the information field
+title: Mapping the Canadian LIS research landscape
 subtitle: An open data project
 date: 2020-06-22T03:29:42.878Z
 draft: false
@@ -17,6 +17,6 @@ image:
   preview_only: false
 ---
 
-The main goal of this project is to build a tool to delve into the composition and history of the Information Science field.
+The main goal of this project is to build a tool to map and explore the research output of the eight ALA-accredited information schools in Canada, with a focus of the specicific contribution of schools in shaping the Canadian LIS research landscape.
 
-The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.
+
