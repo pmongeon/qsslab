@@ -1,5 +1,5 @@
 ---
-title: Ratna Dhaliwal
+title: Kendell Fitzgerald
 role: Research Assistant
 avatar_filename: avatar.jpg
 superuser: false
