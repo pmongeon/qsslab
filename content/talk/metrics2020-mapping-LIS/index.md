@@ -12,7 +12,7 @@ publishDate: 2020-03-14T01:28:13.844Z
 draft: false
 featured: false
 
-project: 
+project: mapping the canadian lis landscapes
 
 authors:
   - Marc-André Simard
