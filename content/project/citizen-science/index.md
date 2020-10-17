@@ -11,6 +11,7 @@ tags:
   - Citizen Science
 authors:
   - Nuria Bautista Puig
+  - Isabelle Dorsch
   - Philippe Mongeon
 image:
   filename: featured
