@@ -2,7 +2,7 @@
 title: "Mapping the Canadian library and information science research landscape"
 abstract:
 
-date: 2020-10-23
+date: 2020-10-23T11:30
 all_day: false
 
 event: "METRICS 2020 Workshop"
@@ -11,6 +11,8 @@ event_url: "https://www.asist.org/sig/sigmet/events/"
 publishDate: 2020-03-14T01:28:13.844Z
 draft: false
 featured: false
+
+project: 
 
 authors:
   - Marc-André Simard
