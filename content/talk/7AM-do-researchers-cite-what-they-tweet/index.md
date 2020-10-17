@@ -18,7 +18,7 @@ projects:
 
 authors:
   - Philippe Mongeon
-  - Timothy Bowman
+  - Timothy D Bowman
   - Rodrigo Costas
 
 image:
