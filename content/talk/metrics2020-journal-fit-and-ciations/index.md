@@ -12,7 +12,9 @@ publishDate: 2020-03-14T01:28:13.844Z
 draft: false
 featured: false
 
-project: The role of journals in shaping knowledge and communitities
+projects:
+- The role of journals in shaping knowledge and communitities
+
 
 authors:
   - Philippe Mongeon
