@@ -1,5 +1,5 @@
 ---
-title: "On the relationship between journal fit and citations"
+title: "On the relationship between journal fit and scientific impact"
 abstract:
 
 date: 2020-10-23
@@ -13,15 +13,11 @@ draft: false
 featured: false
 
 authors:
-  - Marc-André Simard
-  - Cora-Lynn Munroe-Lynds
-  - Ratna Dhaliwal
-  - Mohammed Azka Gowda
-  - Vinson Li
-  - Yifan Liu
-  - Emily McClean
   - Philippe Mongeon
-    
+  - Marc-André Simard
+  - Maxime Sainte-Marie
+  - Philippe Vincent-Lamarre
+
 image:
   filename: featured
   focal_point: Smart
