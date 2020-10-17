@@ -17,8 +17,6 @@ image:
   preview_only: false
   
   
-talks:
-  - "Mapping the Canadian library and information science research landscape"
   
 ---
 

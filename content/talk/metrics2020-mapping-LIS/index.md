@@ -12,7 +12,8 @@ publishDate: 2020-03-14T01:28:13.844Z
 draft: false
 featured: false
 
-project: mapping the canadian lis landscape
+projects: 
+- information-science-citation-index
 
 authors:
   - Marc-André Simard
