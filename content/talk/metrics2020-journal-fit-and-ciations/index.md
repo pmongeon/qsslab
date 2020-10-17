@@ -13,7 +13,7 @@ draft: false
 featured: false
 
 projects:
-- The role of journals in shaping knowledge and communitities
+- role-of-journals-in-shaping-knowledge-and-communities
 
 
 authors:
