@@ -2,7 +2,7 @@
 title: "Do researchers cite what they tweet?"
 abstract:
 
-date: 2020-10-23T11:30:00.000Z
+date: 2020-10-28T8:10:00.000Z
 all_day: false
 
 event: "7:AM Altmetrics Conference"
