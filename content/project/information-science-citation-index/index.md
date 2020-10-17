@@ -15,6 +15,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
+  
+talks:
+  - "Mapping the Canadian library and information science research landscape"
+  
 ---
 
 The main goal of this project is to build a tool to map and explore the research output of the eight ALA-accredited information schools in Canada, with a focus of the specicific contribution of schools in shaping the Canadian LIS research landscape.
