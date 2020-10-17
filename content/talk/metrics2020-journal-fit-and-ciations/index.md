@@ -2,7 +2,7 @@
 title: "On the relationship between journal fit and scientific impact"
 abstract:
 
-date: 2020-10-23
+date: 2020-10-23T11:30:00.000Z ET
 all_day: false
 
 event: "METRICS 2020 Workshop"

@@ -2,7 +2,7 @@
 title: "Mapping the Canadian library and information science research landscape"
 abstract:
 
-date: 2020-10-23T8:30:00.000Z
+date: 2020-10-23T8:00:00.000Z ET
 all_day: false
 
 event: "METRICS 2020 Workshop"
