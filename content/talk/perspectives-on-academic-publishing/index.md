@@ -6,7 +6,7 @@ abstract: "Over the past two decades, the cost of electronic journals has contin
 # 
  date: 2020-10-14
  date_end: 2020-10-14
-all_day: true
+ all_day: false
 
 # Information about the event (if any) during which the presentation takes place.
 event: "CAIS2020" 
