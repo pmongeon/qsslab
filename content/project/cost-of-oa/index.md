@@ -16,7 +16,7 @@ authors:
   - Marc-André Simard
   
 links
-  - name: markdown
+  - name: Mmarkdown
     url: "cost-of-oa.html"
 image:
   filename: featured
