@@ -15,8 +15,8 @@ authors:
   - Lisa Matthias
   - Marc-André Simard
   
-links
-  - name: Mmarkdown
+links:
+  - name: Rmarkdown
     url: "cost-of-oa.html"
 image:
   filename: featured
