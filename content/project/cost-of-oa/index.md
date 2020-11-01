@@ -17,7 +17,7 @@ authors:
   
 links:
   - name: Rmarkdown
-    url: "cost-of-oa.html"
+    url: "https://qsslab.ca/cost-of-oa.html"
 image:
   filename: featured
   focal_point: Smart
