@@ -4,7 +4,7 @@ role: Assistant Professor of Professional Practice in Archival Studies at Louisi
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Collaborators
+  - not shown
 ---
 
 # Bio
