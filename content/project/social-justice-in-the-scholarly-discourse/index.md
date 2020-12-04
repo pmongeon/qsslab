@@ -8,7 +8,7 @@ authors:
   - Ratna Dhaliwal
   - Philippe Mongeon
   - Alison Brown
-  - Jessalyn Hill
+  - Jessie Hill
   - Amber Matthews
 tags:
   -
