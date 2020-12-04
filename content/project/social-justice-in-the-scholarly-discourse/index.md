@@ -1,14 +1,17 @@
 ---
-title: Science and social justice
+title: Social justice in LIS research
 subtitle: 
 date: 2020-06-22T03:29:42.878Z
-draft: true
+draft: false
 featured: false
 authors:
   - Ratna Dhaliwal
   - Philippe Mongeon
+  - Alison Brown
+  - Jessalyn Hill
+  - Amber Matthews
 tags:
-  - RRI
+  -
 image:
   filename: featured
   focal_point: Smart
