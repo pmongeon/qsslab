@@ -13,6 +13,7 @@ authors:
   - Grace Bourret
   - Kendell Fitzgerald
   - Philippe Mongeon
+  - Lisa Olson
   - Ana Roeschley
 image:
   filename: featured
