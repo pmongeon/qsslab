@@ -29,7 +29,4 @@ This study focuses on the cost and profit of OA publishing since 2010 by analyzi
  - How much does the academic community (i.e., countries, funders, universities) pay for publishing gold and hybrid open access articles?
  - How much revenues does large publishers generate through open access fees?
 
-<iframe height="800" width="100%" frameborder="no" src="https://antoinesoetewey.shinyapps.io/statistics-201/"> </iframe>
-
-
 
