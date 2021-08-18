@@ -9,7 +9,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/yifan-liu-b4a47b160/
 user_groups:
-  - Researchers
 ---
 
 # About me
