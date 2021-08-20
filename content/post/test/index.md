@@ -3,7 +3,7 @@ title: this is a test
 subtitle: This is a test.
 
 # Summary for listings and search engines
-This is a test
+summary: this is a test
 
 # Link this post with a project
 projects: []
