@@ -34,6 +34,7 @@ authors:
 tags:
 
 categories:
+- blog
 
 ---
 
