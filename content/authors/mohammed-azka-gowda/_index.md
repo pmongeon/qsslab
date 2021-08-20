@@ -5,7 +5,6 @@ bio: I am a Master of Information student at Dalhousie University, with experien
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researchers
 ---
 
 # About me
