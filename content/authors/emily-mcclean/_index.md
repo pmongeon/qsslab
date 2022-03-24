@@ -5,7 +5,6 @@ bio: "Emily McClean is from Charlottetown, PEI and graduated from Acadia Univers
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researchers
 ---
 
 # About Emily
