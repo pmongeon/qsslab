@@ -15,6 +15,7 @@ authors:
   - Philippe Mongeon
   - Lisa Olson
   - Ana Roeschley
+  - Maddie Hare
 image:
   filename: featured
   focal_point: Smart
