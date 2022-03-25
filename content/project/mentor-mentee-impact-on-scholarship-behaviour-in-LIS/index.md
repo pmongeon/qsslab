@@ -9,11 +9,12 @@ tags:
   - Mentorship
 authors:
   - Maddie Hare
+  - Philippe Mongeon
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
----The Impact of Mentorship on Scholarship Behaviour in LIS
+---
 
 The goal of this project is to understand what impact the mentor-mentee relationship has on the future publication patterns of LIS doctoral students in North America? 
 
