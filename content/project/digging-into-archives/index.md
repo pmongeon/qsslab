@@ -21,7 +21,7 @@ image:
   preview_only: false
 ---
 
-This work is a quantitative exploration of archival scholarship that aims to describe the social and topical structure of the field, it's evolution, and it's relationship with other disciplines.
+This work is a quantitative exploration of archival scholarship that aims to describe the social and topical structure of the field, its evolution, and its relationship with other disciplines.
 
 
 
