@@ -1,6 +1,5 @@
 ---
-title: Mapping the Canadian LIS research landscape
-subtitle: An open data project
+title: Breaking the silos in Canadian LIS research
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
@@ -11,6 +10,11 @@ authors:
   - Yifan Liu
   - Vinson Li
   - Marc-André Simard
+  - Kydra Mayhew
+  - Geoff Krause
+  - Poppy Riddle
+  - Maddie Hare
+  - Maddy Johnston
 image:
   filename: featured
   focal_point: Smart

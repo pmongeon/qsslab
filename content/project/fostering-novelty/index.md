@@ -2,7 +2,7 @@
 title: Fostering novelty and risk taking in research
 subtitle: the case of the Villum experiment
 date: 2020-06-22T03:29:42.878Z
-draft: false
+draft: true
 featured: false
 tags:
   - Governance

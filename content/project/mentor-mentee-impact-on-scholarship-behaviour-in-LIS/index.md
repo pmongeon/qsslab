@@ -9,7 +9,6 @@ tags:
   - Mentorship
 authors:
   - Maddie Hare
-  - Philippe Mongeon
 image:
   filename: featured
   focal_point: Smart

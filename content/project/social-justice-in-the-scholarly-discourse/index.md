@@ -1,5 +1,5 @@
 ---
-title: Social justice in LIS research
+title: Inequalities in science
 subtitle: 
 date: 2020-06-22T03:29:42.878Z
 draft: false
@@ -10,6 +10,7 @@ authors:
   - Alison Brown
   - Jessie Hill
   - Amber Matthews
+  - Poppy Riddle
 tags:
   -
 image:
@@ -28,4 +29,3 @@ Some of the questions will be:
 - How do these trends vary by research field?
 - How do these trends vary by country?
 
-The site is currently under construction. Check again later or [get in touch](https://qsslab.ca/#contact) for more details.

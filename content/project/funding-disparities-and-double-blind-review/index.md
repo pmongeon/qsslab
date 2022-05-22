@@ -2,7 +2,7 @@
 title: Reducing socio-demographic disparities in funding with double-blind peer-review
 subtitle: The case of the Villum Experiment
 date: 2020-06-22T03:29:42.878Z
-draft: false
+draft: true
 featured: false
 tags:
   - RRI
