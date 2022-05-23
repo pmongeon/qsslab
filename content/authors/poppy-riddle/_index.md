@@ -1,10 +1,10 @@
 ---
 title: Poppy Riddle
-role: Research Assistant
+role: PhD Student
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researchers
+  - Current members
 ---
 
 # Bio

@@ -1,10 +1,10 @@
 ---
 title: Maria Henkel
-role: Postdoctoral Researcher
+role: Visiting Researcher
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researchers
+  - Current members
 ---
 
 # About me

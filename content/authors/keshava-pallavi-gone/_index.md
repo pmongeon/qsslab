@@ -1,10 +1,10 @@
 ---
 title: Keshava Pallavi Gone
-role: Master's student
+role: PhD Student
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researchers
+  - Current members
 
 ---
 # About me

@@ -5,7 +5,7 @@ bio: My name is Vinson Li and I am a Master of Information student at Dalhousie 
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researchers
+  - Current members
 ---
 
 # About me
