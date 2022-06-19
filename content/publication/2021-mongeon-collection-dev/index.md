@@ -1,9 +1,11 @@
 ---
-title: 'The Oligopoly of Academic Publishers in the Digital Era'
+title: 'Collection development in the era of big deals'
 authors:
-  - Vincent Larivière
-  - Stefanie Haustein
   - Philippe Mongeon
+  - Kyle Siler
+  - Antoine Archambault
+  - Cassidy Sugimoto
+  - Vincent Larivière
 date: '2015-04-07T00:00:00Z'
 doi: 'https://doi.org/10.1371/journal.pone.0127502'
 
