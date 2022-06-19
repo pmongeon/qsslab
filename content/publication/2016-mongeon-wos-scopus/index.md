@@ -1,10 +1,10 @@
 ---
-title: 'An example conference paper'
+title: 'The journal coverage of Web of Science and Scopus: a comparative analysis'
 authors:
-  - admin
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - Philippe Mongeon
+  - Adèle Paul-Hus
+date: '2015-10-19T00:00:00Z'
+doi: 'https://doi.org/10.1007/s11192-015-1765-5'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -16,29 +16,28 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: Scientometrics
+publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Bibliometric methods are used in multiple fields for a variety of purposes, namely for research evaluation. Most bibliometric analyses have in common their data sources: Thomson Reuters’ Web of Science (WoS) and Elsevier’s Scopus. The objective of this research is to describe the journal coverage of those two databases and to assess whether some field, publishing country and language are over or underrepresented. To do this we compared the coverage of active scholarly journals in WoS (13,605 journals) and Scopus (20,346 journals) with Ulrich’s extensive periodical directory (63,013 journals). Results indicate that the use of either WoS or Scopus for research evaluation may introduce biases that favor Natural Sciences and Engineering as well as Biomedical Research to the detriment of Social Sciences and Arts and Humanities. Similarly, English-language journals are overrepresented to the detriment of other languages. While both databases share these biases, their coverage differs substantially. As a consequence, the results of bibliometric analyses may vary depending on the database used. These results imply that in the context of comparative research evaluation, WoS and Scopus should be used with caution, especially when comparing different fields, institutions, countries or languages. The bibliometric community should continue its efforts to develop methods and indicators that include scientific output that are not covered in WoS or Scopus, such as field-specific and national citation indexes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
 featured: true
 
 links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+#  - name: Custom Link
+#    url: http://example.org
+url_pdf: content/publications/2016-mongeon-wos-scopus/mongeon-2016-wos-scopus.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
