@@ -50,7 +50,7 @@ social:
 #  link: files/mongeon_cv.pdf
 
 user_groups:
-  - Current members
+  - Director
 ---
 
 # About me
