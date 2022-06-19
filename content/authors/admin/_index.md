@@ -2,7 +2,7 @@
 title: Philippe Mongeon
 role: Assistant Professor, School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
-superuser: false
+superuser: true
 bio: "I am an assistant professor at the 
 [School of Information Management](https://www.dal.ca/faculty/management/school-of-information-management.html) at Dalhousie University, 
 director of the Quantitative Science Studies Lab, 
