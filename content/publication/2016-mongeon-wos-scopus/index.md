@@ -30,7 +30,7 @@ featured: true
 links:
 #  - name: Custom Link
 #    url: http://example.org
-url_pdf: content/publication/2016-mongeon-wos-scopus/mongeon-2016-wos-scopus.pdf
+url_pdf: publication/2016-mongeon-wos-scopus/mongeon-2016-wos-scopus.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
