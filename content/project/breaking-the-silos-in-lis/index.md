@@ -1,5 +1,5 @@
 ---
-title: Breaking the silos in Canadian LIS research
+title: Breaking the silos in Canadian Library and Information Science research
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
