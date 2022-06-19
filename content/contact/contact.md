@@ -15,18 +15,18 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-#  email: qsslab@dal.ca
+  email: qsslab@dal.ca
 #  phone: 888 888 88 88
-#  address:
-#   street: 450 Serra Mall
-#    city: Stanford
-#    region: CA
-#   postcode: '94305'
-#   country: United States
-#   country_code: US
-#  coordinates:
-#    latitude: '37.4275'
-#    longitude: '-122.1697'
+  address:
+    street: 6100 University Ave
+    city: Stanford
+    region: NS
+    postcode: 'B3H 4R2'
+    country: Canada
+    country_code: CA
+  coordinates:
+    latitude: '44.637081'
+    longitude: '-63.588214'
 #  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
