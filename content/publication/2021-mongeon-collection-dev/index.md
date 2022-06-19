@@ -5,7 +5,7 @@ authors:
   - Kyle Siler
   - Antoine Archambault
   - Cassidy Sugimoto
-  - Vincent Larivière
+  - Vincent Lariviere
 author_notes:
 date: '2015-09-01T00:00:00Z'
 doi: ''
@@ -20,7 +20,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'College & Research Libraries'
+publication: 'College and Research Libraries'
 publication_short: ''
 
 abstract: Drawing on an original methodology using citations, downloads, and survey data, this paper analyzes journal usage patterns across 28 Canadian universities. Results show that usage levels vary across disciplines and that different academic platforms varied in their importance to different institutions, with for-profit platforms generally exhibiting lower usage. These results suggest economic inefficiencies exist in “big deal” academic journal subscriptions for universities, as most journals in such bundles are seldom or never used. We recommend that universities coordinate resource sharing and negotiate strategies with academic journal expenditures based on shared interests and usage trends.
