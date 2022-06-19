@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  QSS Lab  
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,10 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Quantitative Science Studies Lab is a research group led by [Philippe Mongeon](/author/philippe-mongeon/), Assistant Professor at the [School of Information Management (SIM)](https://www.dal.ca/faculty/management/school-of-information-management.html), Dalhousie University. 
+ 
+
+The lab is named after the [Quantitative Science Studies (QSS)](https://www.mitpressjournals.org/qss) journal, which is the official **open access** journal of the [International Society for Scientometrics and Informetrics (ISSI)](http://www.issi-society.org/)
+
+
+The lab aims to advance knowledge on the social and informational dynamics of science and its interactions with society.
