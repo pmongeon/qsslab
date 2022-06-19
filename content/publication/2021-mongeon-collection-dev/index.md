@@ -34,7 +34,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502
-url_pdf: 'content/publications/mongeon-2021-collection-development.pdf'
+url_pdf: 'content/publication/mongeon-2021-collection-development.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
