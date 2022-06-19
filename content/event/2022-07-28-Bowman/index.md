@@ -1,5 +1,5 @@
 ---
-title: QSS talk with Rodrigo Costas
+title: QSS talk with Timothy Bowman
 
 event: QSS talks
 event_url:
@@ -17,15 +17,15 @@ abstract: 'Coming soon'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-07-21T15:00:00Z'
-date_end: '2022-07-21T16:00:00Z'
+date: '2022-07-28T15:00:00Z'
+date_end: '2022-07-28T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-06-15T00:00:00Z'
 
 authors:
-  - Rodrigo Costas
+  - Timothy Bowman
 tags: []
 
 # Is this a featured talk? (true/false)
