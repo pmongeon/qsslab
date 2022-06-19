@@ -13,7 +13,7 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Events
+  - name: Events/Talks
     url: event
     weight: 40
   - name: Publications
