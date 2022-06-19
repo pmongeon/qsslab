@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "People"
+  name = "News & Blog"
   url = "#news"
   weight = 20
 
@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#talks"
+  url = "#publications"
   weight = 60
 
 [[main]]
