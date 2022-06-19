@@ -29,10 +29,10 @@ tags:
   - Source Themes
 featured: false
 
-links:
-  - name: Publisher version
-    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502
-url_pdf: '../lariviere-2015-oligopoly.pdf'
+# links:
+#  - name: Publisher version
+#    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502
+url_pdf: 'content/publication/2015-lariviere-oligopoly/lariviere-2015-oligopoly.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
