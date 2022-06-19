@@ -19,7 +19,7 @@ content:
 #  phone: 888 888 88 88
   address:
     street: 6100 University Ave
-    city: Stanford
+    city: Halifax
     region: NS
     postcode: 'B3H 4R2'
     country: Canada
