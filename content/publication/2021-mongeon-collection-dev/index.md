@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: mongeon-2021-collection-development.pdf
+url_pdf: '/mongeon-2021-collection-development.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
