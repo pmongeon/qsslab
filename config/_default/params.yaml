@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} QSS Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/pmongeon/qsslab'
     content_dir: content
     branch: main
   avatar:
