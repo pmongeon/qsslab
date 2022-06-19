@@ -5,7 +5,7 @@ authors:
   - Kyle Siler
   - Antoine Archambault
   - Cassidy Sugimoto
-  - Vincent Lariviere
+  - Vincent Larivière
 author_notes:
 date: '2015-09-01T00:00:00Z'
 doi: 'https://doi.org/10.5860/crl.82.2.219'
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publications/2021-mongeon-collection-dev/mongeon-2021-collection-development.pdf'
+url_pdf: content/publications/2021-mongeon-collection-dev/mongeon-2021-collection-development.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
