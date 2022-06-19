@@ -1,6 +1,6 @@
 ---
 title: Two visiting scholars at the lab
-date: 2022-07-01
+date: 2022-06-15
 image:
   focal_point: 'right'
 ---
