@@ -18,7 +18,7 @@ authors:
   - Rémi Toupin
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: smart
   preview_only: false
 ---
 
