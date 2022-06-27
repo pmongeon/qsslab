@@ -32,7 +32,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: 
-url_pdf: 'content/publication/ferreira2021-twitter.pdf'
+url_pdf: 'content/publication/2021-ferreira-twitter/ferreira2021-twitter.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
