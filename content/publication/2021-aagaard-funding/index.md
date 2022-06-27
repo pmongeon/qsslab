@@ -33,7 +33,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502
-url_pdf: 'https://qsslab.ca/content/publication/2021-aagaard-funding/aagaard2021-funding.pdf'
+url_pdf: 'publication/2021-aagaard-funding/aagaard2021-funding.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
