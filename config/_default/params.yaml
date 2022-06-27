@@ -99,7 +99,7 @@ features:
 
 extensions:
   cms:
-    branch: main
+    branch: master
     local_backend: false
   academicons:
     enable: true
