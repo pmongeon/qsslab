@@ -12,7 +12,7 @@ and non-profit organizations (Mitacs and Evidence for Democracy).
 
 The QSS Lab will lead the first of four research projects funded through this grant, which aims at analyzing the visibility/engagement with scholarly publications about forest science in publicly-available policy, news, and social media, and identify whether there are features, keywords, or subject areas that support greater uptake of forest science knowledge in these public venues. 
 
-More details about the project can be found [here](project/forest-science/)." 
+More details about the project can be found [here](../project/forest-science/)." 
 
 <!--more-->
 
