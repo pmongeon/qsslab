@@ -1,5 +1,5 @@
 ---
-title: New grant: What constitutes effective knowledge exchange at the environmental science-policy interface?
+title: "New grant: What constitutes effective knowledge exchange at the environmental science-policy interface?"
 date: 2021-10-31
 ---
 
