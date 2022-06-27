@@ -17,7 +17,7 @@ publishDate: '2021-04-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'PLOS ONE'
+publication: 'Journal of Altmetrics'
 publication_short: ''
 
 abstract: "Social media platforms are increasingly part of the academic workflow. However, there is a lack of research that examines these activities, particularly at the author level. This paper explores the activity of researchers in the Twittersphere by analyzing a large database of Web of Science authors systematically identified on Twitter using data from Altmetric.com. Using this information, this paper explores and compares patterns of tweeted and self-tweeted publications with other academic activities, such as citations, self-citations, and authorship at the author level. This paper also compares the thematic orientation among these different activities by analyzing the similarity of the research topics of the publications tweeted, cited, and authored. The results show that the productivity and impact of researchers, as defined by conventional bibliometric indicators, are not correlated to their popularity on the Twitter platform and that scholars generally tend to tweet about topics closely related to the publications they author and cite. These findings suggest that social media metrics capture a broader aspect of the academic workflow that is most likely related to science communication, dissemination, and engagement with wider audiences and that differs from conventional forms of impact as captured by citations. Areas for further exploration are also proposed."
@@ -32,7 +32,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: 
-url_pdf: 'publication/ferreira2021-twitter.pdf'
+url_pdf: 'content/publication/ferreira2021-twitter.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
