@@ -1,7 +1,7 @@
 ---
-title: Visibility of forest science research in social media, the news, and public policy
+title: "Visibility of forest science research in social media, the news, and public policy"
 subtitle: 
-date: 2022-06-27T03:29:42.878Z
+date: 2022-06-24T03:29:42.878Z
 draft: false
 featured: false
 authors:
