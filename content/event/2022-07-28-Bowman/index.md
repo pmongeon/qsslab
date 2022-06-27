@@ -1,5 +1,5 @@
 ---
-title: QSS talk with Timothy Bowman
+title: "Conversations using Science on Reddit and StackExchange: Going beyond counts"
 
 event: QSS talks
 event_url:
@@ -12,8 +12,8 @@ address:
   postcode: 'B3H 4R2'
   country: Canada
 
-summary: TBD
-abstract: 'Coming soon'
+summary: 
+abstract: "Altmetric research is still (for the most part) driven by authors comparing citations and social media event numbers. Social Media Metrics (Altmetrics) v2.0 looks to go beyond basic counts and investigate the users consuming and disseminating science on social media, which entails investigating user interaction using both quantitative and qualitative methodologies. In this presentation, I will share work in progress investigating Reddit and StackExchange. On these two platforms, we can investigate more rich conversation threads where science is being shared and examine how, (potentially) why, who, and where science is being discussed. In addition, I will introduce our new OpenAlt platform!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
