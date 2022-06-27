@@ -1,5 +1,5 @@
 ---
-title: QSS talk with Rodrigo Costas
+title: Scientometric perspectives on the analysis of academic mobility: a reflection on current and potential developments
 
 event: QSS talks
 event_url:
@@ -12,8 +12,8 @@ address:
   postcode: 'B3H 4R2'
   country: Canada
 
-summary: TBD
-abstract: 'Coming soon'
+summary: 
+abstract: 'Scientometric approaches have been proposed as robust and large-scale alternatives to measure the mobility flows of academic researchers. In this presentation a reflection about the current and potential scientometric developments to study academic mobility will be introduced, with the aim of stimulating discussions about next steps in the future development of scientometric indicators and analytics on academic mobility worldwide.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
