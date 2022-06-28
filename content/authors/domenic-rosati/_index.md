@@ -4,7 +4,7 @@ role: Scite
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
- - Collaborator
+ - Current members
 ---
 
 # About me
