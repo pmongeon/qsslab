@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2022-06-15T00:00:00Z'
 
 authors:
-  - Timothy Bowman
+  - Timothy D. Bowman
 tags: []
 
 # Is this a featured talk? (true/false)
