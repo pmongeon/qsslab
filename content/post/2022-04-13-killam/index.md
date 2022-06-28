@@ -1,6 +1,6 @@
 ---
 title: "Dr. Núria Bautista Puig to join SIM and the QSS Lab as a Killam Postdoctoral Fellow" 
-date: 2022-06-15
+date: 2022-04-22
 image:
   focal_point: 'right'
 ---
