@@ -23,14 +23,17 @@ content:
         color: '#666'
         brightness: 0.7
         media: 
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: QSS talks series 
+      content: 'The QSS talks are informal research presentations by members of the labs and guests. See upcoming talks here.'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
+	  link:
+        text: QSS talks schedule
+        url: ../contact/
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
@@ -40,8 +43,6 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
         text: Join Us
         url: ../contact/
 ---
