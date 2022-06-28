@@ -24,13 +24,13 @@ content:
         brightness: 0.7
         media: 
     - title: QSS talks series 
-      content: 'The QSS talks are informal research presentations by members of the labs and guests'
+      content: The QSS talks are informal research presentations by members of the labs and guests
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: 
 	  link:
         text: QSS talks schedule
         url: ../event/
