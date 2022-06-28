@@ -32,8 +32,8 @@ content:
         brightness: 0.7
         media: space.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
+        icon: 
+        icon_pack: 
         text: See upcoming talks
         url: https://www.qsslab.ca/tag/qss-talks/
 ---
