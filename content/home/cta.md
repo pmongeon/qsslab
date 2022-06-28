@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./posts/" cta_text="More news and blog posts" %}}
+{{% cta cta_link="./post/" cta_text="More news and blog posts" %}}
