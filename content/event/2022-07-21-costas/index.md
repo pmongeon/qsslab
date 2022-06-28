@@ -26,7 +26,7 @@ publishDate: '2022-06-15T00:00:00Z'
 
 authors:
   - Rodrigo Costas
-tags: []
+tags: [Qss talks]
 
 # Is this a featured talk? (true/false)
 featured: true

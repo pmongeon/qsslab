@@ -40,8 +40,8 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
+        icon: 
+        icon_pack: 
         text: Join Us
         url: ../contact/
 ---
