@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to the QSS Lab
-      content: Learn more about the lab
+      content: Named after the [Quantitative Science Studies (QSS)](https://www.mitpressjournals.org/qss) journal, the official **open access** journal of the [International Society for Scientometrics and Informetrics (ISSI)](http://www.issi-society.org/), the lab aims to advance knowledge on the production, dissemination and use of research.  
       align: center
       background:
         position: right
