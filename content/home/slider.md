@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 
+        media: space.jpg
     - title: QSS talks series 
       content: 'The QSS talks are informal research presentations by members of the labs and guests.'
       align: left
@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: space.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
