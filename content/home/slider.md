@@ -24,14 +24,24 @@ content:
         brightness: 0.7
         media: 
     - title: QSS talks series 
-      content: The QSS talks are informal research presentations by members of the labs and guests
-      align: center
+      content: 'The QSS talks are informal research pre your knowledge with the group and explore exciting new topics together!'
+      align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: 
-	  link:
-        text: QSS talks schedule
-        url: ../event/
- ---
+        media: contact.jpg
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: welcome.jpg
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
+---
