@@ -31,17 +31,9 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: See upcoming talks
+        url: https://www.qsslab.ca/tag/qss-talks/
 ---
