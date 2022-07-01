@@ -4,7 +4,7 @@ title: "Scientometric perspectives on the analysis of academic mobility: a refle
 event: QSS talks
 event_url:
 
-location: Rowe (room TBD)
+location: Rowe 3089
 address:
   street: 6100 University Ave
   city: Halifax

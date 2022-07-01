@@ -4,7 +4,7 @@ title: "Conversations using Science on Reddit and StackExchange: Going beyond co
 event: QSS talks
 event_url:
 
-location: Rowe (room TBD)
+location: Rowe 3089
 address:
   street: 6100 University Ave
   city: Halifax
