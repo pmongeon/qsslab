@@ -45,9 +45,8 @@ social:
 #  link: https://github.com/pmongeon
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-#  link: files/mongeon_cv.pdf
+ - icon: cv
+   link: content/authors/philippe-mongeon/mongeon_cv.pdf
 
 user_groups:
   - Director
