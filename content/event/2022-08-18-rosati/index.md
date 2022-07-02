@@ -4,7 +4,7 @@ title: Topic Models with Meaningful Topics
 event: QSS talks
 event_url:
 
-location: Rowe 3089
+location: Rowe 1014
 address:
   street: 6100 University Ave
   city: Halifax
