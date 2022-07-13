@@ -23,7 +23,7 @@ user_groups:
 
 # About me
 
-I am a PhD student at Dalhousie University researching how searching for information may be improved through applying visualization. I am working at the intersection of Library and Information Science, bibliometrics, and human-computer interaction. 
+I am a PhD student at [Dalhousie University](https://www.dal.ca/faculty/management/school-of-information-management.html)  researching how searching for information may be improved through applying visualization. I am working at the intersection of Library and Information Science, bibliometrics, and human-computer interaction. 
 
 Interests:
 
