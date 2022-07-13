@@ -13,6 +13,9 @@ bio: "I am a PhD student researching how searching for information may be
 #  To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    link: authors/poppy_riddle_cv.pdf
+ - icon: github
+  icon_pack: fab
+  link: https://github.com/poppy-nicolette
 
 user_groups:
   - Current members
