@@ -27,4 +27,16 @@ user_groups:
   - Current members
 ---
 
-# Bio
+# About me
+
+I am a PhD student at Dalhousie University researching how searching for information may be improved through applying visualization. I am working at the intersection of Library and Information Science, bibliometrics, and human-computer interaction. 
+
+Interests:
+
+- Information Retrieval
+- Biblliometrics and bibliometric-enhanced information retrieval (BIR)
+- Exploratory Search Behaviours
+- 2D and 3D information visualization
+- Cognitive load
+- Virtual reality
+- Topic Modelling
