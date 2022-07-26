@@ -17,7 +17,7 @@ social:
   link: https://www.linkedin.com/in/madelaine-h-8a98b522b/
 - icon: orcid
   icon_pack: ai
-  link:
+  link: https://orcid.org/0000-0002-2123-9518
 ---
 
 # About Maddie
