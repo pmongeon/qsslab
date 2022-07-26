@@ -7,16 +7,18 @@ user_groups:
 
 - Current members
 
----
-
 social:
 
 - icon: envelope
   icon_pack: fas
   link: 'mailto:maddie.hare@dal.ca'
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/madelaine-h-8a98b522b/
+- icon: orcid
+  icon_pack: ai
+  link:
+---
 
 # About Maddie
 
