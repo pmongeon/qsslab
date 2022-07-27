@@ -5,6 +5,22 @@ avatar_filename: avatar.jpg
 superuser: false
 user_groups:
  - Current members
+ 
+social:
+
+
+@domenic_rosati (https://twitter.com/domenic_rosati)
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:dom@scite.ai'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/domenic_rosati
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2666-7615
+
+
 ---
 
 # About me
