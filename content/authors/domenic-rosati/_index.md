@@ -5,11 +5,9 @@ avatar_filename: avatar.jpg
 superuser: false
 user_groups:
  - Current members
- 
+
 social:
 
-
-@domenic_rosati (https://twitter.com/domenic_rosati)
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dom@scite.ai'
