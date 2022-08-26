@@ -5,7 +5,7 @@ bio: Gita Ghiasi is a Research Officer at the École de bibliothéconomie et des
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
- - Collaborators
+ - 
 ---
 
 # About Gita
