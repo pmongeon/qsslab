@@ -4,5 +4,5 @@ role: Postdoctoral researcher at McGill University, and Senior researcher at Han
 avatar_filename: fei-shu-avatar.png
 superuser: false
 user_groups:
- - Collaborators
+ - 
 ---
