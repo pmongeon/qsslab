@@ -1,16 +1,12 @@
 ---
 title: Poppy Riddle
-role: PhD Student
+role: ID PhD Program, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 bio: "I am a PhD student researching how searching for information may be
  improved through applying visualization. I am working at the intersection
  of Library and Information Science, bibliometrics, and human-computer interaction."
 
-
-
-# Link to a PDF of your resume/CV from the About widget.
-#  To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 social:
 - icon: envelope
