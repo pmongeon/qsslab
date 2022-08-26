@@ -1,6 +1,6 @@
 ---
 title: Maddy Johnston
-role: Research assistant
+role: School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
