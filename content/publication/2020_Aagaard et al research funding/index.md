@@ -42,7 +42,7 @@ featured: false\
 # links:\
 #  - name: Publisher version\
 #    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251488\
-url_pdf: 'publication/2015-lariviere-oligopoly/lariviere-2015-oligopoly.pdf'\
+url_pdf: 'publication/2020_Aagaard et al research funding/Aagaard et al. - 2021 - Getting to the bottom of research funding Acknowl.pdf'\
 url_code: ''\
 url_dataset: ''\
 url_poster: ''\
