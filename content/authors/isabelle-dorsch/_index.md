@@ -6,7 +6,7 @@ avatar_filename: avatar.jpg
 bio: I am a PhD candidate, research associate and lecturer at the Department of Information Science at the Heinrich Heine University Düsseldorf in Germany.
 superuser: false
 user_groups:
-  - Collaborators
+  - 
   
 social:
 - icon: twitter
