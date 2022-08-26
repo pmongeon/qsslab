@@ -9,7 +9,7 @@ bio: "My name is Courtney Pearce and I am a Master of Information student at Dal
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''
+  link: 
 - icon: cv
   link: 
 - icon: github
