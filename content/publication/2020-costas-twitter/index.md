@@ -35,7 +35,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: https://direct.mit.edu/qss/article/1/2/771/96149/Large-scale-identification-and-characterization-of
-url_pdf: 'publication/2020-Costas et al scholars on twitter/Costas et al - 2020 - Large-scale identification and characterization of.pdf'
+url_pdf: 'publication/2020-costas-twitter/costas-2020-twitter.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,8 +57,7 @@ preview_only: false
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - publication
-
+ 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension
