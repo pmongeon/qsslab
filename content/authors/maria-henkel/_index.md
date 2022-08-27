@@ -1,10 +1,10 @@
 ---
 title: Maria Henkel
-role: Visiting Researcher
+role: Leibniz Information Centre for Economics
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Collaborators
+  - 
 ---
 
 # About me
