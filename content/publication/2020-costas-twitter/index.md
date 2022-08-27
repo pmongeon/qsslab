@@ -1,5 +1,5 @@
 ---
-title: 'Large-scale identification and characterization of scholars on Twitter'
+title: "Large-scale identification and characterization of scholars on Twitter"
 
 authors:
 - Rodrigo Costas
@@ -7,7 +7,7 @@ authors:
 - Marcia R. Ferreira
 - Jeroen van Honk
 - Thomas Franssen
-date: '2020-06-012T00:00:00Z'
+date: '2020-06-12T00:00:00Z'
 doi: 'https://doi.org/10.1162/qss_a_00047'
 
 # Schedule page publish date (NOT publication's date).
