@@ -31,7 +31,7 @@ featured: false
 
 # links:
 #  - name: Publisher version
-#    url: 
+#    url: https://www.journalofaltmetrics.org/articles/10.29024/joa.38/
 url_pdf: 'publication/2021-ferreira-twitter/ferreira2021-twitter.pdf'
 url_code: ''
 url_dataset: ''
