@@ -5,7 +5,8 @@ authors:
   - Philippe Mongeon
   - Irene Ramos-Vielba
   - Duncan Andrew Thomas
-date: '2020-05-012T00:00:00Z'
+date: '2020-12-05T00:00:00Z'
+
 doi: 'https://doi.org/10.1371/journal.pone.0251488'
 
 # Schedule page publish date (NOT publication's date).
