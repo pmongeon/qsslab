@@ -32,7 +32,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: https://journals.sagepub.com/doi/full/10.1177/0539018419898394
-url_pdf: '../larregue-2020-epigenetics.pdf'
+url_pdf: 'publication/2020-larregue-epigenetics/larregue-2020-epigenetics.pdf'
 
 url_code: ''
 url_dataset: ''
