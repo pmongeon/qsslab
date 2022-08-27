@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Proceedings of the Annual Conference of CAIS/Actes du congrès annuel de l'ACSI'
+publication: "Proceedings of the Annual Conference of CAIS/Actes du congrès annuel de l'ACSI"
 publication_short: 'CAIS 2021'
 
 abstract: "Sharks have traditionally been portrayed as dangerous animals by modern media, contributing to a negative perception in the public eye. On one hand, despite some species being listed as critically endangered, news about the perceived risk of sharks for humans protrudes more than other topics. On the other hand, conservation topics tend to focus on specific topics, such as finning, highlighting the divergence between scientific and mediatic discourses about sharks. Our research compares the attention of shark research topics across citations, tweets, news and policy mention to assess the salience of specific themes. We find that citations are evenly distributed across research communities, tweets and policy mentions exhibit a significant focus on conservation, and news mentions tend to focus on more sensationalist topics such as shark attacks or the repercussions of fisheries on coral reefs."
