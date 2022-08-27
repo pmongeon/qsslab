@@ -4,7 +4,7 @@ authors:
 - Julien Larregue
 - Vincent Larivière
 - Philippe Mongeon
-date: '2020-21-012T00:00:00Z'
+date: '2020-12-21T00:00:00Z'
 doi: 'https://doi.org/10.1177/0539018419898394'
 
 # Schedule page publish date (NOT publication's date).
