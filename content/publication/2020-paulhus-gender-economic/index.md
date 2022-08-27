@@ -5,7 +5,7 @@ authors:
 - Philippe Mongeon
 - Maxime Sainte-Marie
 - Vincent Larivière
-date: '2020-01-062T00:00:00Z'
+date: '2020-06-01T00:00:00Z'
 doi: 'https://doi.org/10.1162/qss_a_00036'
 
 # Schedule page publish date (NOT publication's date).
