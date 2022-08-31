@@ -35,7 +35,7 @@ featured: false
 # links:
 #  - name: Publisher version
 #    url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1224
-url_pdf: "publication/2021-munroe-lynds-lis-canada.pdf/munroe-lynds-2021-lis-canada.pdf"
+url_pdf: "publication/2021-munroe-lynds-lis-canada/munroe-lynds-2021-lis-canada.pdf"
 
 url_code: ''
 url_dataset: ''
