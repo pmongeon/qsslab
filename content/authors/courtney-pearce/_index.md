@@ -7,18 +7,18 @@ user_groups:
   - Current members
 
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 
-- icon: cv
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: orcid
-  icon_pack: ai
-  link: 
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: 
+#- icon: cv
+#  link: 
+#- icon: github
+#  icon_pack: fab
+#  link: 
+#- icon: orcid
+#  icon_pack: ai
+#  link: 
 
 ---
 
