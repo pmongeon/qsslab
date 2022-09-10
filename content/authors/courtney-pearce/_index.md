@@ -1,3 +1,4 @@
+---
 title: Courtney Pearce 
 role: School of Information Management Dalhousie University
 avatar_filename: avatar.jpg
