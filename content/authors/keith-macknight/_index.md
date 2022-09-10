@@ -3,6 +3,7 @@ title: Keith MacKnight
 role: School of Information Management Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
+bio: I am a first-year student in Dalhousie University's Master of Information program. My academic background is in Archaeology and History, but I have moved to the Information Management field after spending two years working for my local archives and enjoying my time there. Through the Master of Information program, I hope to learn the skills to advance further in the field of archives, while also exploring the other opportunities available to me in Information Management.
 user_groups:
  - Current members
 
