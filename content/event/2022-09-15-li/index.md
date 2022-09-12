@@ -4,7 +4,7 @@ title: "Mapping the Health Science Librarianship Research Field in 2012 – 2022
 event: QSS talks
 event_url:
 
-location: Rowe (room TBD)
+location: Rowe 1014
 address:
   street: 6100 University Ave
   city: Halifax
