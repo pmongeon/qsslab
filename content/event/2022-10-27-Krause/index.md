@@ -5,7 +5,7 @@ authors:
 abstract: "TBD"
 event: QSS talks
 tags: [QSS talks]
-location: Rowe 3089
+location: "Rowe 3089"
 address:
   street: 6100 University Ave
   city: Halifax
