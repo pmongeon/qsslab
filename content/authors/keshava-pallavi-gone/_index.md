@@ -6,6 +6,20 @@ superuser: false
 user_groups:
   - Current members
 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:pl230553@dal.ca'
+- icon: cv
+  link: 
+- icon: github
+  icon_pack: fab
+  link: 
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2382-1197
+
 ---
 # About me
-I am Pallavi, second-year Master of Information Management student at Dalhousie University. I also hold second Masters in Computer Science from Jawaharlal Nehru Technological University, India.  I have almost 10 years of experience as an Assistant Professor and Product Support Engineer. I am always fascinated by social media and analyzing social data. My major research area is Machine learning, Natural language processing and social media. Currently, I am in an internship program, working as a Machine Learning Advisor at DeepSense and also involved in two research projects related to COVID-19 on Twitter platform. I am looking forward to exploring more research projects in Data Science.
+
+I am Pallavi, PhD Student and a part-time faculty in the School of Information Management, Dalhousie University. My research area is Natural language processing and social media. My current research work focuses on applying machine learning and natural processing techniques to benefit in the social science discipline.
