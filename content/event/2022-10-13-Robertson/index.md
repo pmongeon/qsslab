@@ -13,8 +13,7 @@ address:
   country: Canada
 
 authors:
-  - Manjulika (MJ) Robertson
-tags: [QSS talks]
+  - Manjulika (MJ) Robertson
 
 abstract: 
 
