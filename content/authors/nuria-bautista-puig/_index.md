@@ -11,7 +11,7 @@ social:
   link: 'mailto:Nuria.Bautista.Puig@hig.se'
 - icon: twitter
   icon_pack: fab
-  link: @NuriaBautista7
+  link: https://twitter.com/NuriaBautista7
 - icon: linkedin
   icon_pack: fab
   link: https://es.linkedin.com/in/n%C3%BAria-bautista-puig-17a33345
