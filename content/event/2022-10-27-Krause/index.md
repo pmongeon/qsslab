@@ -14,7 +14,6 @@ address:
 
 authors:
   - Geoff Krause
-tags: [QSS talks]
 
 abstract: "Open science has widespread benefits not only for science and society, but also for individual researchers. Making data used in research publicly available is encouraged, or sometimes even required, to both support existing research and increase available sources for future researchers. But when data is re-used, are the datasets themselves being cited, and if so, by whom? This bibliometric analysis will look into citations of datasets recorded in OpenAlex to determine how these items are cited, how citations are concentrated, and what role self-citation plays."
 
