@@ -25,3 +25,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Outreach
+    url: outreach
+    weight: 70
