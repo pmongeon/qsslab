@@ -15,6 +15,8 @@ address:
 authors:
   - Philippe Mongeon
 tags: [QSS talks]
+
+url_slides: '2022-02-02_QSS_talk_slides.html'
  
 abstract: "The Quantitative Science Studies (QSS), launched in 2020, is named after the Quantitative Science Studies (QSS) journal, the official open-access journal of the International Society for Scientometrics and Informetrics (ISSI). It aims to advance knowledge on the practices and outcomes of knowledge productions, dissemination, and use. This presentation will provide a short introduction to the field of bibliometrics and quantitative science studies, as well as an overview of the lab’s past, present, and future research activities."
  
