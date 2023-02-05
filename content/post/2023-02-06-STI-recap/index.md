@@ -1,6 +1,6 @@
 ---
 title: "Conference Recap: International Conference on Science, Technology and Innovation Indicators, September 7-9, 2022"
-date: 2023-02-06
+date: 2023-02-05
 image:
   focal_point: 'right'
 ---
