@@ -1,3 +1,4 @@
+---
 title: "Acknowledging Canadian Librarians' Contributions to the Advancement of Knowledge"
  
 event: QSS talks
