@@ -1,7 +1,7 @@
 ---
 title: Acknowledging Canadian Librarians' Contributions to the Advancement of Knowledge
 date: 2023-02-17 
-draft: true
+draft: false
 featured: false
 tags:
   - LIS
