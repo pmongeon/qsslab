@@ -26,12 +26,12 @@ publish_events <- function(){
   write("\nauthors:",file, append = TRUE)
   authors<-stringr::str_squish(unlist(strsplit(event$authors, ",")))
   for(author in authors) {
-    write(stringr::str_c("  -",author),file, append = TRUE)
+    write(stringr::str_c("  - ",author),file, append = TRUE)
   }
   write("\ntags:",file, append = TRUE)
   tags<-stringr::str_squish(unlist(strsplit(event$tags, ",")))
   for(tag in tags) {
-    write(stringr::str_c("  -",tag),file, append = TRUE)
+    write(stringr::str_c("  - ",tag),file, append = TRUE)
   }
   write(stringr::str_c("\nurl_slides: ",event$url_slides),file, append = TRUE)
   write(stringr::str_c("\nabstract:\n \"",event$abstract,"\""),file, append = TRUE)
