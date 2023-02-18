@@ -34,7 +34,7 @@ publish_events <- function(){
     write(stringr::str_c("  -",tag),file, append = TRUE)
   }
   write(stringr::str_c("\nurl_slides: ",event$url_slides),file, append = TRUE)
-  write(stringr::str_c("\nabstract: ",event$abstract),file, append = TRUE)
+  write(stringr::str_c("\nabstract:\n \"",event$abstract,"\""),file, append = TRUE)
   write("\n# Talk start and end times",file, append=TRUE)
   write(stringr::str_c("date: '",event$date,"T",event$start_time,":00Z'"),file, append=TRUE)
   write(stringr::str_c("date_end: '",event$date,"T",event$end_time,":00Z'"),file, append=TRUE)
