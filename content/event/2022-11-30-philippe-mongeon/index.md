@@ -1,13 +1,13 @@
 ---
-title: "Le rôle structurant des revues savantes à l’ère numérique"
+title: "Le rÃ´le structurant des revues savantes Ã  lâ€™Ã¨re numÃ©rique"
 
-event: Séminaire midi
+event: SÃ©minaire midi
 event_url: 
 
 location: CIRST-UQAM
 address:
   street: 
-  city: Montréal
+  city: MontrÃ©al
   region: QC
   postcode: 
   country: Canada

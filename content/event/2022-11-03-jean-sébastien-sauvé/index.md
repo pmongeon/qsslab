@@ -1,19 +1,19 @@
 ---
-title: "Briser les silos de recherche : Pour l’amélioration des interactions entre les milieux universitaire et professionnel en sciences de l’information"
+title: "Briser les silos de recherche : Pour lâ€™amÃ©lioration des interactions entre les milieux universitaire et professionnel en sciences de lâ€™information"
 
-event: Congrès des professionnel.le.s de l’information
+event: CongrÃ¨s des professionnel.le.s de lâ€™information
 event_url: 
 
 location: 
 address:
   street: 
-  city: Montréal
+  city: MontrÃ©al
   region: QC
   postcode: 
   country: Canada
 
 authors:
-  - Jean-Sébastien Sauvé
+  - Jean-SÃ©bastien SauvÃ©
   - Philippe Mongeon
 
 tags:

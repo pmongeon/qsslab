@@ -1,7 +1,7 @@
 ---
-title: "L'usage des dépôts institutionnels dans les universités canadiennes"
+title: "L'usage des dÃ©pÃ´ts institutionnels dans les universitÃ©s canadiennes"
 
-event: CARL’s Spring General Meeting
+event: CARLâ€™s Spring General Meeting
 event_url: 
 
 location: Online
@@ -14,7 +14,7 @@ address:
 
 authors:
   - Philippe Mongeon
-  - Jean-Sébastien Sauvé
+  - Jean-SÃ©bastien SauvÃ©
 
 tags:
 
