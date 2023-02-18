@@ -3,7 +3,7 @@ title: "Does double-blind peer-review effectively correct for demographic dispar
 
 event: Atlanta Conference on Science and Innovation Policy
 
-location: 
+# location: 
 address:
   city: Atlanta
   region: GA
@@ -14,10 +14,9 @@ authors:
   -Jesper Schneider
   -Philippe Mongeon
 
-tags:
+#tags:
 
 abstract: 
-
 "BackgroundWe examine the ‘Villum Experiment’ (VE), a funding program instigated by the Villum Foundation, a Danish private funder who supports blue-sky research in the natural and technical sciences in Denmark. The VE instrument is supposed to support unorthodox ideas in their early phase. More specifically, the instrument was created for those research projects out of the ordinary that challenge the norm and have the potential to change fundamentally the way we approach important topics. The VE should therefore promote ‘risky ideas’ and ‘new paths’ in the natural and technical sciences. Interestingly, to mitigate well-known biases in peer review, applicants are kept anonymous to the reviewers. Assessments are solely based on short structured applications where the focus is upon the ‘idea’, no CVs or names are disclosed. Non-blinded peer reviews are seen as conservative and supposedly incentivise ‘safe applications’. Likewise, exposure of names, affiliations and past performances through CVs is assumed to causes biases resulting in for example, Matthew effects, and gender and ethnicity disparities. A double-blind mechanism is assumed to alleviate such challenges. The questions is to what extent?
 MethodsWe use all application data (e.g. names, ids, full text) and review scores from five rounds of applications (2017 to 2021) - corresponding to 2000+ applications with around 250 funded projects. We examine different aspects of the VE programme, such as its mechanisms and potential impacts. Here, we focus on potential gender bias and disparities in who is funded. The current overall application and success rates, somewhat surprisingly, given the double-blinded mechanism, suggest a consistent gender difference where men are seemingly more successful than expected given their share of applications. Despite a double-blinded review process, women are 4.3 percentage points less likely to have their proposals funded than men (9.18 \% vs. 13.5 \%). To make sense of this persistent gender disparity, we use a series of bayesian multilevel models and post-stratification to investigate potential explanations.
 Results
