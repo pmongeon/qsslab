@@ -14,7 +14,7 @@ address:
 
 authors:
   - Cora-Lynn Munroe-Lynds
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Vinson Li
   - Emily McClean
   - Philippe Mongeon

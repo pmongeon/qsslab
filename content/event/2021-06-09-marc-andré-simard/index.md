@@ -13,7 +13,7 @@ address:
   country: 
 
 authors:
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Toluwase Asubiaro
   - Philippe Mongeon
 

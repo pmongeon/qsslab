@@ -15,7 +15,7 @@ address:
 authors:
   - Kory Melnick
   - Tamanna Moharana
-  - Rémi Toupin
+  - RÃ©mi Toupin
   - Pallavi Gone
   - Bertrum MacDonald
   - Philippe Mongeon
