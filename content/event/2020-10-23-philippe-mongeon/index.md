@@ -1,7 +1,7 @@
 ---
 title: "On the relationship between journal fit and scientific impact"
 
-event: Metrics 2020
+event: "Metrics 2020"
 event_url: 
 
 location: Online
