@@ -5,7 +5,6 @@ publish_events <- function(){
     filter(publish == 1) %>% 
     filter(is.na(on_website) | on_website == 0 | on_website == "false") %>% 
     filter(!is.na(title))
-  event<-events[1,]
   for(event in events) {
   event[is.na(event)] <- ""
   a<-stringr::str_squish(unlist(strsplit(event$authors, ",")))[1]
@@ -37,8 +36,9 @@ publish_events <- function(){
   write(stringr::str_c("\nurl_slides: ",event$url_slides),file, append = TRUE)
   write(stringr::str_c("\nabstract:\n \"",event$abstract,"\""),file, append = TRUE)
   write("\n# Talk start and end times",file, append=TRUE)
-  write(stringr::str_c("date: '",event$date,"T",event$start_time,":00Z'"),file, append=TRUE)
-  write(stringr::str_c("date_end: '",event$date,"T",event$end_time,":00Z'"),file, append=TRUE)
+  if(event$start_time!="") write(stringr::str_c("date: '",event$date,"T",event$start_time,":00Z'"),file, append=TRUE)
+  if(event$start_time=="") write(stringr::str_c("date: '",event$date),file, append=TRUE)
+  if(event$end_time!="") write(stringr::str_c("date_end: '",event$date,"T",event$end_time,":00Z'"),file, append=TRUE)
   write(stringr::str_c("all_day: ",event$all_day),file, append=TRUE)
   write("# Do not modify this next line\npublishDate: '2022-06-15T00:00:00Z'",file, append=TRUE)
   write("---", file, append=TRUE)
