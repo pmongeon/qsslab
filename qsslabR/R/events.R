@@ -43,7 +43,7 @@ publish_events <- function(event_id){
   if(event$start_time!="") write(stringr::str_c("date: '",event$date,"T",event$start_time,":00Z'"),file, append=TRUE)
   if(event$start_time=="") write(stringr::str_c("date: '",event$date,"'"),file, append=TRUE)
   if(event$end_time!="") write(stringr::str_c("date_end: '",event$date,"T",event$end_time,":00Z'"),file, append=TRUE)
-  write(stringr::str_c("all_day: ",event$all_day),file, append=TRUE)
+  write(stringr::str_c("all_day: ",ifelse(event$start_time == "","true","false")),file, append=TRUE)
   write("# Do not modify this next line\npublishDate: '2022-06-15T00:00:00Z'",file, append=TRUE)
   write("---", file, append=TRUE)
   dbExecute(temp_db, str_c("update events set on_website = 1 where id = ",event$id,";"))
@@ -51,4 +51,4 @@ publish_events <- function(event_id){
   RSQLite::dbDisconnect(temp_db)
 }
 
-publish_events(1)
+
