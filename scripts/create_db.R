@@ -95,3 +95,28 @@ dbCreateTable(db, "grants", c(id = "smallint",
                               currency = "text",
                               status = "text"
                               ))
+
+dbCreateTable(db, "publications_people", c(publication_id = "smallint",
+                                           person_id = "smallint",
+                                           role = "text",
+                                           position = "smallint"))
+
+dbCreateTable(db, "events_people", c(event_id = "smallint",
+                                     person_id = "smallint",
+                                     role = "text",
+                                     position = "smallint"))
+
+dbCreateTable(db, "grants_people", c(grant_id = "smallint",
+                                     person_id = "smallint",
+                                     role = "text",
+                                     position = "smallint"))
+
+dbCreateTable(db, "posts_people", c(post_id = "smallint",
+                                    person_id = "smallint",
+                                    role = "text",
+                                    position = "smallint"))
+
+dbCreateTable(db, "projects_people", c(project_id = "smallint",
+                                       person_id = "smallint",
+                                       role = "text",
+                                       position = "smallint"))
