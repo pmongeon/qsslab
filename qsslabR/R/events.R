@@ -5,6 +5,7 @@ publish_events <- function(){
     filter(publish == 1) %>% 
     filter(is.na(on_website) | on_website == 0 | on_website == "false") %>% 
     filter(!is.na(title))
+
   for(event in events) {
   event[is.na(event)] <- ""
   a<-stringr::str_squish(unlist(strsplit(event$authors, ",")))[1]
