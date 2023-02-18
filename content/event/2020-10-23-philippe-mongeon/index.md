@@ -8,7 +8,7 @@ location: "Online"
 authors:
   - Philippe Mongeon
   - Maxime Sainte-Marie
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Philippe Vincent-Lamarre
 
 # Talk start and end times
