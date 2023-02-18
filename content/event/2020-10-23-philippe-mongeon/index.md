@@ -1,9 +1,9 @@
 ---
-title: On the relationship between journal fit and scientific impact
+title: "On the relationship between journal fit and scientific impact"
 
 event: "Metrics 2020"
 
-location: Online
+location: "Online"
 
 authors:
   - Philippe Mongeon
