@@ -14,7 +14,7 @@ address:
 
 authors:
   - Poppy Riddle
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Pallavi Gone
   - Vinson Li
   - Philippe Mongeon

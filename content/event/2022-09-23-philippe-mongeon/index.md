@@ -16,7 +16,7 @@ authors:
   - Philippe Mongeon
   - Tamanna Moharana
   - Kory Melnick
-  - Rémi Toupin
+  - RÃ©mi Toupin
   - Pallavi Gone
   - Bertrum MacDonald
 
