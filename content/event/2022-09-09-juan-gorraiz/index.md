@@ -15,8 +15,8 @@ address:
 authors:
   - Juan Gorraiz
   - Nicolas Robinson-Garcia
-  - Janne Pölönen
-  - Vincent Larivière
+  - Janne PÃ¶lÃ¶nen
+  - Vincent LariviÃ¨re
   - Cassidy Sugimoto
   - Philippe Mongeon
 
