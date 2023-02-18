@@ -24,7 +24,7 @@ abstract:
 
 # Talk start and end times
 date: '2023-06-01'
-all_day: FALSE
+all_day: true
 # Do not modify this next line
 publishDate: '2022-06-15T00:00:00Z'
 ---
