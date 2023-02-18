@@ -1,5 +1,5 @@
 ---
-title: "On the citation relationship between industry funded and publicly funded Canadian Food Research publications"
+title: "A bibliometric analysis of the coverage of historical journals in Web of Science and Scopus"
 
 event: STI2022
 event_url: 
@@ -14,8 +14,10 @@ address:
 
 authors:
   - Kydra Mayhew
-  - Domenic Rosati
-  - Janet Music
+  - Maria Henkel
+  - Lara Morrison
+  - Courtney Svab
+  - Geoff Krause
   - Philippe Mongeon
 
 tags:
