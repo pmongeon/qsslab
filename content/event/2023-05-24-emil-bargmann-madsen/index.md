@@ -14,9 +14,9 @@ authors:
   -Jesper Schneider
   -Philippe Mongeon
 
-#tags:
+# tags:
 
-abstract: "hello"s
+abstract: "hello"
 
 # Talk start and end times
 date: '2023-05-24T15:15:00Z'
