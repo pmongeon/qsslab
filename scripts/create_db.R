@@ -22,7 +22,7 @@ dbCreateTable(db, "streams", c(id = "smallint",
                                description = "text"))
 
 
-dbCreateTable(db, "event", c(id = "smallint",
+dbCreateTable(db, "events", c(id = "smallint",
                              title = "text",
                              abstract = "text",
                              event = "text",
@@ -111,12 +111,8 @@ dbCreateTable(db, "grants_people", c(grant_id = "smallint",
                                      role = "text",
                                      position = "smallint"))
 
-dbCreateTable(db, "posts_people", c(post_id = "smallint",
-                                    person_id = "smallint",
-                                    role = "text",
-                                    position = "smallint"))
-
 dbCreateTable(db, "projects_people", c(project_id = "smallint",
                                        person_id = "smallint",
                                        role = "text",
                                        position = "smallint"))
+
