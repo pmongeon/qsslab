@@ -14,9 +14,9 @@ address:
 
 authors:
   - Philippe Mongeon
-  - Adèle Paul-Hus
+  - AdÃ¨le Paul-Hus
   - Maria Henkel
-  - Vincent Larivière
+  - Vincent LariviÃ¨re
 
 tags:
 
