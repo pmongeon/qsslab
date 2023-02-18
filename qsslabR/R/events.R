@@ -1,13 +1,14 @@
 #' @export
+#'
 publish_events <- function(event_id){
   temp_db <- RSQLite::dbConnect(drv = SQLite(), dbname= "master.db")
-  event<-dbGetQuery(temp_db, stringr::str_c("select * from events where id = ",event_id)) 
+  event<-dbGetQuery(temp_db, stringr::str_c("select * from events where id = ",event_id))
   if(event$on_website == 1) {
-    print("already published") 
+    print("already published")
     break
     }
   if(event$publish != 1) {
-    print("publish is not equal to 1 for this event") 
+    print("publish is not equal to 1 for this event")
     break
     }
   event[is.na(event)] <- ""
