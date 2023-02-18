@@ -13,10 +13,10 @@ address:
   country: Belgium
 
 authors:
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Gita Ghiasi
   - Philippe Mongeon
-  - Vincent Larivière
+  - Vincent LariviÃ¨re
 
 tags:
 
