@@ -10,9 +10,9 @@ address:
   country: United States
 
 authors:
-  -Emil Bargmann Madsen
-  -Jesper Schneider
-  -Philippe Mongeon
+  - Emil Bargmann Madsen
+  - Jesper Schneider
+  - Philippe Mongeon
 
 # tags:
 
