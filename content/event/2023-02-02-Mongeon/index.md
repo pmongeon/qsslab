@@ -16,7 +16,6 @@ authors:
   - Philippe Mongeon
 tags:
   - QSS talks
-  - Bibliometrics
 
 url_slides: '2022-02-02_QSS_talk_slides.html'
  
