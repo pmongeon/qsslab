@@ -2,27 +2,14 @@
 title: On the relationship between journal fit and scientific impact
 
 event: "Metrics 2020"
-event_url: 
 
 location: Online
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
 
 authors:
   - Philippe Mongeon
   - Maxime Sainte-Marie
   - Marc-André Simard
   - Philippe Vincent-Lamarre
-
-tags:
-
-url_slides: 
-
-abstract:
 
 # Talk start and end times
 date: '2020-10-23'
