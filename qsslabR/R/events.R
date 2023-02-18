@@ -7,6 +7,7 @@ publish_events <- function(){
     filter(!is.na(title))
   event<-events[1,]
   for(event in events) {
+  event[is.na(event)] <- ""
   a<-stringr::str_squish(unlist(strsplit(event$authors, ",")))[1]
   folder<-stringr::str_c("content/event/",event$date,"-",stringr::str_replace_all(stringr::str_squish(stringr::str_to_lower(a))," ","-"))
   file<-stringr::str_c(folder,"/index.md")
@@ -39,7 +40,6 @@ publish_events <- function(){
   write(stringr::str_c("date: '",event$date,"T",event$start_time,":00Z'"),file, append=TRUE)
   write(stringr::str_c("date_end: '",event$date,"T",event$end_time,":00Z'"),file, append=TRUE)
   write(stringr::str_c("all_day: ",event$all_day),file, append=TRUE)
-  write("\n# Do not modify this next line",file, append=TRUE)
   write("# Do not modify this next line\npublishDate: '2022-06-15T00:00:00Z'",file, append=TRUE)
   write("---", file, append=TRUE)
   dbExecute(temp_db, str_c("update events set on_website = 1 where id = ",event$id,";"))
