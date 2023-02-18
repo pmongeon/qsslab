@@ -1,5 +1,5 @@
 ---
-title: "On the relationship between journal fit and scientific impact"
+title: On the relationship between journal fit and scientific impact
 
 event: "Metrics 2020"
 event_url: 
@@ -23,7 +23,6 @@ tags:
 url_slides: 
 
 abstract:
- ""
 
 # Talk start and end times
 date: '2020-10-23'
