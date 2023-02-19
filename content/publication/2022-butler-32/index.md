@@ -4,7 +4,7 @@ title: "The Oligopoly's Shift to Open Access Publishing: How For-Profit Publishe
 authors:
   - Leigh-Ann Butler
   - Lisa Matthias
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Philippe Mongeon
   - Stefanie Haustein
 date: '2022-09-07'
