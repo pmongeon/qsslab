@@ -30,7 +30,7 @@ abstract: "Archives have a long history of working ‘behind the scenes’, fulf
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+
 featured: false
 
 # links:
@@ -59,7 +59,7 @@ preview_only: false
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: 
-  - 'Digging into archives'
+  - 'digging-into-archives'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
