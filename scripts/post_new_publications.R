@@ -8,7 +8,7 @@ publications<-dbReadTable(db, "publications") %>%
   filter(on_website == 0) %>% 
   filter(publish == 1)
 publications<-publications$id
-N
+
 for(id in publications) {
-  publish_events(id)
+  publish_publications(id)
 }
