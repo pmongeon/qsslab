@@ -3,9 +3,9 @@ title: "On the impact of geo-contextualized and local research in the global Nor
 
 authors:
   - Philippe Mongeon
-  - Adèle Paul-Hus
+  - AdÃ¨le Paul-Hus
   - Maria Henkel
-  - Vincent Larivière
+  - Vincent LariviÃ¨re
 date: '2022-09-07'
 doi: 'https://doi.org/10.5281/zenodo.6956978'
 
