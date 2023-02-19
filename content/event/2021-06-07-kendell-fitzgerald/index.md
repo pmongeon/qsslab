@@ -24,8 +24,10 @@ tags:
 
 url_slides: 
 
-abstract:
- ""
+abstract: ""
+
+projects:
+  - 'digging-into-archives'
 
 # Talk start and end times
 date: '2021-06-07'
