@@ -2,9 +2,9 @@
 title: "From art to science: a bibliometric analysis of architectural scholarly production from 1980 to 2016"
 
 authors:
-  - Jean-Sébastien Sauvé
+  - Jean-SÃ©bastien SauvÃ©
   - Philippe Mongeon
-  - Vincent Larivière
+  - Vincent LariviÃ¨re
 date: '2022-11-03'
 doi: 'https://doi.org/10.1371/journal.pone.0276840'
 
