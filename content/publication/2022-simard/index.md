@@ -2,10 +2,10 @@
 title: "National differences in dissemination and use of open access literature"
 
 authors:
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Gita Ghiasi
   - Philippe Mongeon
-  - Vincent Larivière
+  - Vincent LariviÃ¨re
 date: '2022-09-08'
 doi: 'https://doi.org/10.1371/journal.pone.0272730'
 
