@@ -14,7 +14,8 @@ address:
  
 authors:
   - Philippe Mongeon
-tags: [QSS talks]
+tags:
+  - QSS talks
 
 url_slides: '2022-02-02_QSS_talk_slides.html'
  
