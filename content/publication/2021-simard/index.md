@@ -2,10 +2,10 @@
 title: "Geographic Differences in the Uptake of Open Access"
 
 authors:
-  - Marc-André Simard
+  - Marc-AndrÃ© Simard
   - Gita Ghiasi
   - Philippe Mongeon
-  - Vincent Larivière
+  - Vincent LariviÃ¨re
 date: '2021-07-15'
 doi: ''
 

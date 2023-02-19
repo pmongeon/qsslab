@@ -1,5 +1,5 @@
 ---
-title: "Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981–2019"
+title: "Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981â€“2019"
 
 authors:
   - Lisa Olson
