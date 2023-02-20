@@ -22,6 +22,7 @@ authors:
 tags:
 
 url_slides: 
+url_video: https://youtu.be/vREK3iJzJGo
 
 abstract:
  ""

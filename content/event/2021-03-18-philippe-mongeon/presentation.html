@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Philippe Mongeon   School of Information Management   Dalhousie University" />
+  <meta name="dcterms.date" content="2021-03-18" />
+  <title>On the Never-Ending Serial Crisis and the Need to Re-Think Scholarly Publishing</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="presentation_files/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="presentation_files/reveal.js-3.3.0.1/css/theme/simple.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal .slide-menu-button {
+      left: 105px !important;
+    }
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+    <script src="presentation_files/header-attrs-2.20/header-attrs.js"></script>
+    <link href="presentation_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="presentation_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title"><strong>On the Never-Ending Serial Crisis and the
+Need to Re-Think Scholarly Publishing</strong></h1>
+    <h2 class="author">Philippe Mongeon <br> School of Information
+Management <br> Dalhousie University</h2>
+    <h3 class="date">2021-03-18</h3>
+</section>
+
+<section id="is-access-to-research-a-human-right"
+class="title-slide slide level1">
+<h1><strong>Is access to research a human right?</strong></h1>
+<style>
+    .reveal section img { 
+        background:none; 
+        border:none; 
+        box-shadow:none; 
+</style>
+<p><img data-src="images/human_right_27.jpg" width="500" /></p>
+<p><a
+href="https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+class="uri">https://www.un.org/en/about-us/universal-declaration-of-human-rights</a></p>
+</section>
+
+<section id="scholarly-publishing-a-short-story"
+class="title-slide slide level1">
+<h1><strong>Scholarly publishing: a short story</strong></h1>
+
+</section>
+
+<section>
+<section id="the-actors" class="title-slide slide level1">
+<h1><strong>The actors</strong></h1>
+
+</section>
+<section id="the-librarian" class="slide level2">
+<h2><strong>The librarian</strong></h2>
+<p><img data-src="images/Picture1.png" /></p>
+</section>
+<section id="the-researcher" class="slide level2">
+<h2><strong>The researcher</strong></h2>
+<p><img data-src="images/Picture2.png" /></p>
+</section>
+<section id="the-publisher" class="slide level2">
+<h2><strong>The publisher</strong></h2>
+<p><img data-src="images/Picture3.png" /></p>
+</section></section>
+<section>
+<section id="genesis-1946-1991" class="title-slide slide level1">
+<h1><strong>Genesis (1946-1991)</strong></h1>
+<p>Buranyi, S. (2017, June 27). Is the staggeringly profitable business
+of scientific publishing bad for science? <em>The Guardian</em>. <a
+href="https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science"
+class="uri">&lt;https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science&gt;</a></p>
+</section>
+<section id="the-corporate-takeover-of-scholarly-publishing-1946-1991"
+class="slide level2">
+<h2><strong>The corporate takeover of scholarly publishing
+(1946-1991)</strong></h2>
+<p><img data-src="images/Robert_Maxwell_1989.jpg" width="165" /></p>
+<p>Robert Maxwell owned Pergamon Press from 1951 to 1991.</p>
+</section>
+<section id="the-enrollment-of-researchers" class="slide level2">
+<h2><strong>The enrollment of researchers</strong></h2>
+<p>“We would get dinner and fine wine, and at the end [Robert Maxwell]
+would present us a cheque – a few thousand pounds for the society. It
+was more money than us poor scientists had ever seen.” <em>Leslie
+Iversen, former editor at the Journal of Neurochemistry</em></p>
+</section>
+<section id="a-limitless-market" class="slide level2">
+<h2><strong>A limitless market</strong></h2>
+<p><em>“Scientific articles are about unique discoveries: one article
+cannot substitute for another. If a serious new journal appeared,
+scientists would simply request that their university library subscribe
+to that one as well. If Maxwell was creating three times as many
+journals as his competition, he would make three times more money.”</em>
+(Buranyi, 2017).</p>
+</section>
+<section id="price-inelasticity" class="slide level2">
+<h2><strong>Price inelasticity</strong></h2>
+<p><em>“Between 1975 and 1985, the average price of a journal doubled.
+The New York Times reported that in 1984 it cost $2,500 to subscribe to
+the journal Brain Research; in 1988, it cost more than $5,000”</em>
+(Buranyi, 2017).</p>
+<p><em>“Scientists are not as price-conscious as other professionals,
+mainly because they are not spending their own money”</em> <br> - Robert
+Maxwell, 1988.</p>
+</section>
+<section id="elsevier-buys-pergamon-press-1991" class="slide level2">
+<h2><strong>Elsevier buys Pergamon Press (1991)</strong></h2>
+<p><em>“You have no idea how profitable these journals are once you stop
+doing anything. […]. We buy it and we stop doing all that stuff and then
+the cash just pours out and you wouldn’t believe how wonderful it
+is.</em>” - Richard Charkin, former Macmillan CEO (as reported by
+Buranyi, 2017)</p>
+</section>
+<section id="the-breaking-point" class="slide level2">
+<h2><strong>The breaking point</strong></h2>
+<p><em>“By 1994, three years after acquiring Pergamon, Elsevier had
+raised its prices by 50%. Universities complained that their budgets
+were stretched to breaking point”</em> (Buranyi, 2017)</p>
+</section></section>
+<section id="the-serials-crisis" class="title-slide slide level1">
+<h1><strong>The serials crisis</strong></h1>
+<p>Expanditures of the 34 university libraries consistently reported in
+the ARL statistics (1986-2011)</p>
+<p><img data-src="images/Picture16.png" width="645" /></p>
+</section>
+
+<section>
+<section id="the-big-deals" class="title-slide slide level1">
+<h1><strong>The “Big Deals”</strong></h1>
+<p>With the move to digital publishing in the late 1990s, the publishers
+offered access to all their electronic journals in a single package with
+fixed annual price increase.</p>
+<p>Libraries could save money by canceling the print subscriptions.</p>
+</section>
+<section id="entrapment" class="slide level2">
+<h2><strong>Entrapment</strong></h2>
+<p><em>“Academic library directors should not sign on to the Big Deal or
+any comprehensive licensing agreements with commercial publishers.”
+(Frazier, 2001)</em></p>
+<ul>
+<li><p>Forced acquisition of journals that we don’t want or
+need.</p></li>
+<li><p>Increased dependency on commercial publishers with monopolistic
+ambitions.</p></li>
+</ul>
+</section>
+<section id="increased-control" class="slide level2">
+<h2><strong>Increased control</strong></h2>
+<p>Share of Web of Science publications published by the top 5
+publishers</p>
+<p><img data-src="images/Picture11.png" /></p>
+</section>
+<section id="increased-profits" class="slide level2">
+<h2><strong>Increased profits</strong></h2>
+<p>Elsevier’s scholarly publishing division reported profits and margins
+(1992-2013).</p>
+<p><img data-src="images/Picture12.png" width="523" /></p>
+</section></section>
+<section id="serials-crisis-2.0" class="title-slide slide level1">
+<h1><strong>Serials crisis 2.0</strong></h1>
+<p>Expanditures of the 34 university libraries consistently reported in
+the ARL statistics (1986-2011)</p>
+<p><img data-src="images/Picture16.png" width="644" /></p>
+</section>
+
+<section>
+<section id="the-2010s-push-back" class="title-slide slide level1">
+<h1><strong>The 2010s push back</strong></h1>
+
+</section>
+<section id="editorial-migrations" class="slide level2">
+<h2><strong>Editorial migrations</strong></h2>
+<p>The entire board of the <em>Journal of Informetrics</em> resigned to
+launch a new open access journal, <em>Quantitative Science Studies</em>,
+on the basis that:</p>
+<ul>
+<li><p>Scholarly journals should be owned by the scholarly
+community.</p></li>
+<li><p>Journals should be open access under fair principles.</p></li>
+<li><p>Citation data should be freely available.</p></li>
+</ul>
+</section>
+<section id="journal-cancellations" class="slide level2">
+<h2><strong>Journal cancellations</strong></h2>
+<p>A large number of Libraries around the world tried to take a hard
+line with their negotiations with the big publishers.</p>
+<p><a href="https://bigdeal.sparcopen.org/cancellations"
+class="uri">https://bigdeal.sparcopen.org/cancellations</a></p>
+</section>
+<section id="the-journal-usage-project-jup" class="slide level2">
+<h2><strong>The journal usage project (JUP)</strong></h2>
+<ul>
+<li><p>Commissioned by the Canadian Research Knowledge Network (CRKN) in
+2016 to gain insight into usage, citations, and faculty perceptions of
+journal value at the institutional and national level.</p></li>
+<li><p>28 participating universities.</p></li>
+<li><p>Three indicators:</p>
+<ul>
+<li><p>Downloads</p></li>
+<li><p>References</p></li>
+<li><p>Mentions</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="concentration-of-journal-usage" class="slide level2">
+<h2><strong>Concentration of journal usage</strong></h2>
+<p>Cumulative distribution of downloads, references and mentions.</p>
+<p><img data-src="images/distributiosn.jpg" /></p>
+</section>
+<section id="do-we-need-all-these-journals" class="slide level2">
+<h2><strong>Do we need all these journals?</strong></h2>
+<p>Distribution of journals from the Five major for-profit platforms by
+the number of universities that considered the journal essential.</p>
+<p><img data-src="images/core_journals.jpg" width="507" /></p>
+</section>
+<section id="canadian-university-libraries-licensing-fees"
+class="slide level2">
+<h2><strong>Canadian university libraries licensing fees</strong></h2>
+<p><img data-src="images/expenses.jpg" /></p>
+<p>Source: <a
+href="https://www.frdr-dfdr.ca/repo/dataset/7ece8cc3-1352-4c5f-8f86-df3f849f3e85"
+class="uri">https://www.frdr-dfdr.ca/repo/dataset/7ece8cc3-1352-4c5f-8f86-df3f849f3e85</a></p>
+</section></section>
+<section>
+<section id="section" class="title-slide slide level1">
+<h1></h1>
+<p><img data-src="images/Picture10.png" width="499" /></p>
+<p>Open Access (OA) is a process that aims to make research output
+freely available on the public internet, allowing the users to read,
+download, copy, distribute, print, search or link to the full text
+without any financial, legal or technical barrier, in accordance with an
+open copyright license (usually <a
+href="https://creativecommons.org/licenses/by/2.0/"><u>CC-BY</u></a>)
+(Budapest Open Access Initiative, 2002)</p>
+</section>
+<section id="green-oa" class="slide level2">
+<h2><strong>Green OA</strong></h2>
+<p>Most publishing agreements allow the authors to make their work
+available online in places such as:</p>
+<ul>
+<li><p>Institutional repositories (e.g., DalSpace)</p></li>
+<li><p>Disciplinary repositories (e.g., PubMed Central, ArXiv, SocArXiv,
+BioRxiv)</p></li>
+<li><p>Their own website</p></li>
+</ul>
+<p>Information on individual journal policies: <a
+href="https://v2.sherpa.ac.uk/romeo/"
+class="uri">https://v2.sherpa.ac.uk/romeo/</a></p>
+</section>
+<section id="gold-oa" class="slide level2">
+<h2><strong>Gold OA</strong></h2>
+<p>The journal does not sell subscription to libraries and all published
+articles are openly available directly on the publisher’s website at the
+moment of publication.</p>
+<p>This model typically (but not always) involves an article processing
+charge (APC) than can range from 0$ to 9500 Euros per paper.</p>
+</section>
+<section id="bronze-oa" class="slide level2">
+<h2><strong>Bronze OA</strong></h2>
+<p>Articles are made available for free on the publisher’s website after
+an embargo period.</p>
+</section>
+<section id="hybrid-oa" class="slide level2">
+<h2><strong>Hybrid OA</strong></h2>
+<p>Subscription journals that allow researchers to pay a fee for their
+article to be openly available on the publishers website at the moment
+of publication.</p>
+<p>This model widely criticized as a form of
+<strong>double-dipping</strong> since the journals are paid for by
+subscriptions.</p>
+</section></section>
+<section>
+<section id="the-open-access-movement-gold-mine"
+class="title-slide slide level1">
+<h1><strong>The open access</strong>
+<strike><strong>movement</strong></strike> <strong>gold
+mine</strong></h1>
+<p>Article processing charges vary from 0$ to 9500 Euros.</p>
+<p><img data-src="images/Picture9.png" width="599" /></p>
+</section>
+<section id="exploiting-the-publish-or-perish-culture"
+class="slide level2">
+<h2><strong>Exploiting the “publish or perish culture”?</strong></h2>
+<p><em>Once they had exhausted the libraries’ capacity to pay they
+turned to the authors’ infinite need to publish -</em> Mongeon
+(2021)<em>.</em></p>
+</section>
+<section id="open-access-mega-journals" class="slide level2">
+<h2>Open access mega journals</h2>
+<ul>
+<li><p>Charateristics</p>
+<ul>
+<li><p>High publication volume</p></li>
+<li><p>High acceptance rate</p></li>
+<li><p>No instistance on novelty</p></li>
+</ul></li>
+<li><p>Examples</p>
+<ul>
+<li><p>Scientific Reports (Springer-Nature)</p></li>
+<li><p>SAGE open (Sage)</p></li>
+<li><p>SpringerPlus (Springer)</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="adding-up-apcs-and-the-subscriptions" class="slide level2">
+<h2>Adding up APCs and the subscriptions</h2>
+<p>Total subscription prices and APCs paid by Canadian universities
+between 2015 and 2019 for Elsevier, Sage, Taylor &amp; Francis, and
+Wiley journals (Simard, Asubiaro &amp; Mongeon 2021)</p>
+<p><img data-src="images/subscriptions_and_apcs.jpg" width="600" /></p>
+</section></section>
+<section>
+<section id="transformative-agreements-big-deals-2.0"
+class="title-slide slide level1">
+<h1><strong>Transformative agreements:</strong> <br> <strong>“big deals”
+2.0?</strong></h1>
+<p>Tranformative agreements seek to shift scholarly publishing away from
+subscription-based models and towards open access.</p>
+</section>
+<section id="the-sage-deal-with-canadian-universities"
+class="slide level2">
+<h2><strong>The SAGE deal with Canadian Universities</strong></h2>
+<ul>
+<li><p>6% increase to the “big deal” price.</p></li>
+<li><p>Free hybrid OA for authors.</p></li>
+</ul>
+</section>
+<section id="the-wiley-deal-with-german-universities"
+class="slide level2">
+<h2><strong>The Wiley deal with German universities</strong></h2>
+<ul>
+<li><p>Access to the “big deal” journals restored.</p></li>
+<li><p>Universities to pay 2,750 euros per articles authored by their
+researchers.</p></li>
+</ul>
+</section>
+<section id="the-elsevier-deal-with-the-university-of-california"
+class="slide level2">
+<h2><strong>The Elsevier deal with the University of
+California</strong></h2>
+<ul>
+<li><p>Access to the “big deal” journals restored.</p></li>
+<li><p>Hybrid OA becomes the standard (authors need to opt-out)</p></li>
+<li><p>First 1000$ paid by the University</p></li>
+<li><p>Rest paid by the author</p></li>
+<li><p>If the author has no research funds, the library will
+pay</p></li>
+</ul>
+</section>
+<section id="killing-the-competition" class="slide level2">
+<h2><strong>Killing the competition?</strong></h2>
+<p>Will authors choose to pay APCs to a small publisher that does not
+have a transformative deal with his institution?</p>
+</section>
+<section id="killing-the-will-to-change" class="slide level2">
+<h2><strong>Killing the will to change?</strong></h2>
+<p><em>“Scientists are not as price-conscious as other professionals,
+mainly because they are not spending their own money”</em> <br> - Robert
+Maxwell, 1988.</p>
+</section></section>
+<section id="rethinking-scholarly-publishing"
+class="title-slide slide level1">
+<h1><strong>Rethinking scholarly publishing</strong></h1>
+<p>If we consider accessing and participating to research as right, we
+must:</p>
+<ul>
+<li><p>Eliminate the corporate for-profit logic from the scholarly
+publishing ecosystem</p></li>
+<li><p>Replace it with a focus on equality and the public good</p></li>
+</ul>
+</section>
+
+<section>
+<section id="my-ideal-scholarly-publishing-landscape"
+class="title-slide slide level1">
+<h1><strong>My ideal scholarly publishing landscape</strong></h1>
+
+</section>
+<section id="the-librarian-1" class="slide level2">
+<h2><strong>The librarian</strong></h2>
+<p><img data-src="images/Picture1.png" /></p>
+</section>
+<section id="the-researcher-1" class="slide level2">
+<h2><strong>The researcher</strong></h2>
+<p><img data-src="images/Picture2.png" /></p>
+</section>
+<section id="the-commercial-publisher-1946-2021" class="slide level2">
+<h2><strong>The commercial publisher (1946-2021)</strong></h2>
+<p><img data-src="images/Picture4.png" width="642" /></p>
+</section></section>
+<section id="thank-you-for-your-attention"
+class="title-slide slide level1">
+<h1><strong>Thank you for your attention</strong></h1>
+<p>Reach me at:<br />
+Pmongeon@dal.ca<br />
+Twitter: @philippemongeon</p>
+</section>
+    </div>
+  </div>
+
+  <script src="presentation_files/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="presentation_files/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+        // Display a presentation progress bar
+        progress: true,
+        // Display the page number of the current slide
+        slideNumber: true,
+        // Push each slide change to the browser history
+        history: true,
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+        // Enable the slide overview mode
+        overview: true,
+        // Vertical centering of slides
+        center: true,
+        // Enables touch navigation on devices with touch input
+        touch: true,
+        // Turns fragments on and off globally
+        fragments: true,
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+        // Opens links in an iframe preview overlay
+        previewLinks: true,
+        // Transition style
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        menu: {
+          side: 'right',
+   
+    
+    
+    
+    
+    
+    
+ 
+          custom: false,
+          themes: false,
+          transitions: false
+        },
+
+
+
+        chalkboard: {
+          toggleNotesButton: true,
+          theme: 'default',
+        },
+
+        keyboard: {
+          67: function() { RevealChalkboard.toggleNotesCanvas() },    // toggle notes canvas when 'c' is pressed
+          66: function() { RevealChalkboard.toggleChalkboard() }, // toggle chalkboard when 'b' is pressed
+          46: function() { RevealChalkboard.clear() },    // clear chalkboard when 'DEL' is pressed
+           8: function() { RevealChalkboard.reset() },    // reset chalkboard data on current slide when 'BACKSPACE' is pressed
+          68: function() { RevealChalkboard.download() }, // downlad recorded chalkboard drawing when 'd' is pressed
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'presentation_files/reveal.js-3.3.0.1/plugin/chalkboard/chalkboard.js', async: true },
+          { src: 'presentation_files/reveal.js-3.3.0.1/plugin/menu/menu.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
