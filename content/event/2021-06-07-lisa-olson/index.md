@@ -26,6 +26,7 @@ projects:
   - 'digging-into-archives'
 
 url_slides: 
+url_poster: CAIS2021_Olson_poster.pdf
 
 abstract:
  ""
