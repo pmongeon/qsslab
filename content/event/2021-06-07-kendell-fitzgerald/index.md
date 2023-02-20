@@ -23,6 +23,7 @@ authors:
 tags:
 
 url_slides: 
+url_poster: CAIS2021_Fitzgerald_poster.pdf
 
 abstract: ""
 
