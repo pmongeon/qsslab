@@ -17,7 +17,7 @@ authors:
 
 tags:
 
-url_slides: 
+url_slides: presentation.html
 
 abstract:
  ""
