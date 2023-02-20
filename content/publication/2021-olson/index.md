@@ -27,7 +27,9 @@ summary: ""
 tags:
 
 projects:
-url_pdf: ''
+  - 'digging-into-archives'
+
+url_pdf: 'CAIS2021_OlsonEtAl.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
