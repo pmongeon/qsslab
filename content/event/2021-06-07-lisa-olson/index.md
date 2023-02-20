@@ -22,6 +22,9 @@ authors:
 
 tags:
 
+projects:
+  - 'digging-into-archives'
+
 url_slides: 
 
 abstract:
