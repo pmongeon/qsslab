@@ -1,7 +1,8 @@
 ---
-title: New QSS Members
-  image: 
-	focal_point: 'right'
+title: "New QSS Members" 
+date: 2023-03-24
+image:
+  focal_point: 'right'
 ---
 
 In September of 2022, QSS Lab welcomed 10 new members! Please find the profiles of Toni Beaton, Naomi Richards, Mercy Chikezie, Keith MacKnight, Julia Crowell, Joana Hiemstra, Hailey Wills, Courtney Pearce, Catherine Gracey, and Blake Curry [here](https://www.qsslab.ca/people/). QSS is excited to grow its membership, expand its lab facilities, and develop as an academic organization. Many new projects are already underway as a result of the efforts and skills of our new members. 
