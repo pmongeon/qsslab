@@ -25,7 +25,8 @@ The CARL research grant was awarded based on my masters thesis and the gap in un
 **What do you enjoy most about LIS/HCI?**
 
 HCI is a great overlap between my prior education in design and LIS, though HCI goes deep into the user research theory and methods. I find this both satisfying and daunting! I think there is also a good complement between HCI and LIS in theories and methods that are unique to each, but may cross over well. For example, cognition theories that HCI borrows from cognitive science may help LIS researchers understand how technological systems are shaping the perception and decision making of library patrons. Conversely, HCI seems to lack the critical perspectives that LIS brings to address social inequities and would benefit from reflective practices in identifying how design processes, theories, contexts, etc are continuing to enable inequalities and bias.
-Finally, what are your favourite parts about QSS Lab?
+
+**Finally, what are your favourite parts about QSS Lab?**
 
 The people! Perhaps its our curiosity, our shared ability to geek about anything, or how satisfying it is to hear about other’s successes. Its such a wonderfully supportive community. Second, I really like the breadth of our research topics. There’s technical work, (which can be really deep and satisfying), and there’s critical work of deconstructing, (which can be personally rewarding), and topics that genuinely interest me as well as those that are surprisingly interesting! ( I think anything can be interesting if you ask the right questions.)
 
