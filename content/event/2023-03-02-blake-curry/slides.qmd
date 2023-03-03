@@ -4,7 +4,7 @@ format: revealjs
 
 ## Using bibliometrics and altmetrics to measure engagement with Canadian forestry research {.center}
 
-Blake Curry, Catherine Gracey, Naomi Richards, Geoff Krause, Maddie Hare, Philippe Mongeon
+Blake Curry, Catherine Gracey, Geoff Krause, Maddie Hare, Philippe Mongeon
 
 ## Presentation plan
 
