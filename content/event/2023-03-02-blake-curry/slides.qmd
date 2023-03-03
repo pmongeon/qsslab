@@ -1,16 +1,10 @@
 ---
-title: "Using bibliometrics and altmetrics to measure engagement with Canadian forestry research"
-author: "Blake Curry, Catherine Gracey, Naomi Richards, Geoff Krause, Maddie Hare, Philippe Mongeon"
 format: revealjs
-editor: visual
-smaller: false
 ---
 
-```{css, echo=FALSE}
-.title {
-  font-size: 20px;
-}
-```
+## Using bibliometrics and altmetrics to measure engagement with Canadian forestry research {.center}
+
+Blake Curry, Catherine Gracey, Naomi Richards, Geoff Krause, Maddie Hare, Philippe Mongeon
 
 # Presentation plan
 
