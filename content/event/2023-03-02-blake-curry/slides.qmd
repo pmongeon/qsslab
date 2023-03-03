@@ -330,3 +330,5 @@ Advancements in the foundations of bibliometrics are necessary for advancing bib
 ## Top papers in policy
 
 ![](images/table%207.jpg){fig-align="center"}
+
+# Thank you!
