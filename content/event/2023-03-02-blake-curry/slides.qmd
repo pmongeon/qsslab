@@ -1,0 +1,332 @@
+---
+title: "Using bibliometrics and altmetrics to measure engagement with Canadian forestry research"
+author: "Blake Curry, Catherine Gracey, Naomi Richards, Geoff Krause, Maddie Hare, Philippe Mongeon"
+format: revealjs
+editor: visual
+smaller: false
+---
+
+# Presentation plan
+
+-   Context of our study
+
+-   What are bibliometrics
+
+-   Data and methods
+
+-   Introduction to altmetrics
+
+-   Findings of our study
+
+# Context
+
+## Forests are important
+
+-   Lumber
+
+-   Carbon sequestration
+
+-   Biodiversity
+
+-   Etc.
+
+## Science is important
+
+-   Researchers produce knowledge to help us better understand, manage, preserve and exploit or forests.
+
+-   Canada is and important producer of forestry research.
+
+-   Informing policy.
+
+    -   Science-policy gap.
+
+## Our research approach and objectives {.smaller}
+
+Use bibliometrics to provide a large-scale overview of Canadian Forestry research and its mobilization in science, the media, and policy.
+
+1.  How is scientific, social media, news, and policy attention distributed across individual publications and research areas within the field of Forestry in Canada?
+
+2.  Is there a correlation between the number of citations, social media mentions, news mentions, and policy mentions that Canadian Forestry research publications receive?
+
+3.  What are the publications with the most citations, social media mentions, news mentions, and policy mentions in Canadian Forestry?
+
+# Introduction to Bibliometrics and its applications
+
+## What are bibliometrics?
+
+The application of mathematics and statistical analysis to scholarly output to analyze knowledge production, dissemination, and use:
+
+"The measurement of all aspects related to the publication and reading of books and documents." (Otlet, 1934)
+
+"The application of mathematics and statistical methods to books and other media of communication." (Pritchard, 1969)
+
+## Also known as...
+
+Bibliometrics is a widely used term to refer to the field, but it is not the only one. Other (quasi-)synonyms or closely related terms include:
+
+-   Scientometrics
+
+-   Info(r)metrics
+
+-   Altmetrics
+
+-   Quantitative Science Studies
+
+-   Science of Science
+
+-   Research on Research
+
+## Why citations?
+
+Scientific documents are valuable records (units of knowledge) resulting from well-established processes by which organized communities of experts (in various disciplines, fields, and topics) produce and validate knowledge claims.
+
+Bibliographic citations offer one "visible and traceable" channel which can show us "something about the way those knowledge claims are generated, connected to each other, and validated".
+
+(De Bellis, 2009, pg. xii)
+
+## Web of knowledge
+
+Example of a publication network.
+
+![](https://www.qsslab.ca/event/2023-02-02-mongeon/images/cc_dc_graph.png){fig-align="center"}
+
+## Underlying assumptions
+
+Because researchers cite their sources (contributions to the advancement of knowledge), references and citations can be used:
+
+-   To measure of the use (or impact?) of a research output.
+
+-   To link research outputs (and their producers) with one another.
+
+## Handle with care
+
+Citations do not offer an accurate reflection of a work's impact or influence, so metrics based on citations have limitations. Caution is necessary when using them for purposes of evaluation.
+
+-   Consult guidelines on best practices, such as the Leiden Manifesto and the San Francisco Declaration on Research Assessment (DORA).
+
+<!-- -->
+
+-   Consider consulting or involving a bibliometrician!
+
+## Main data sources
+
+-   Web of Science, Scopus, Dimensions, Openalex, Altmetrics, PubMed, Google Scholar, and many others!
+
+The main advantages of bibliometric databses are their comprehensive indexing of metadata, enrichment of metadata (disciplinary classifications, unique author identifiers, etc.), and their index of citations.
+
+The indexing of citations, pioneered by Eugene Garfield in the 1960s, is the key innovation that led to the emergence and growth of bibliometrics as its own field of research over the last half-century.
+
+## Rich in metadata
+
+![](images/MicrosoftTeams-image%20(1).png){fig-align="center"}
+
+## Rich in metadata
+
+![](images/MicrosoftTeams-image%20(2).png){fig-align="center"}
+
+## Conducting bibliometric analyses {.smaller}
+
+-   Mainly based on metadata than on a work's full-text, though some do use the full-text of articles to conduct bibliometric analyses.
+
+-   The growing field of altmetrics or "alternative metrics" aim to capture different forms of engagement not confined to the scholarly communications system, such as mentions or discussions of scholarly works on social media, the news, blogs, policy documents, and their interaction with citation managers like Mendeley.
+
+![](https://pmongeon.github.io/bibliometrics-and-scholarly-communication/images/article.jpg){fig-align="center"}
+
+## Why use bibliometrics?
+
+Bibliometrics are useful for the assessment or evaluation of research and can offer high-level or detailed insights on fields, authors or research entities, trends in topics over time, and relationships.
+
+Advancements in the foundations of bibliometrics are necessary for advancing bibliometric methodology and the tools we use to conduct analysis; developments of indicators, best practices, and data sources are exciting continuous developments in the field.
+
+# Data and methods
+
+# What is the field of Forestry
+
+## Data sources
+
+-   Journal list from Scopus, WoS, and the DOAJ
+
+-   OpenAlex
+
+## OpenAlex API and GUI
+
+-   API entities include works, authors, sources, institutions
+
+-   GUI is available to search for individual entities
+
+## Data structure
+
+![](images/openalex-schema.png){fig-align="center"}
+
+## How we delineated the field of Forestry
+
+-   147 core journals, 75,180 works
+
+-   Further expanded to include
+
+    1.  The work is published in one of the related 623 forestry-related journals
+
+    2.  The work contains a reference to a paper from core set 
+
+    3.  The work contains at least one of the our key forestry terms, ie: timber, boreal, deciduous, fell  
+
+## What is Canadian research? {.smaller}
+
+-   Manually coded all 770 journals as geographically focused on Canada or not
+
+-   Works were included if
+
+    1.  The paper is published in a journal that focuses on Canada
+
+    2.  The paper contains the string "Canad\*" in its title or abstract. 
+
+    3.  The paper has at least one author affiliated to a Canadian institution. 
+
+    4.  The paper is published in a journal with no explicit focus on a region other than Canada. 
+
+-   Works either have criteria 1 OR 2, or satisfy 3 and 4
+
+# Publication network
+
+## Making a network
+
+-   Network was built based on the citation relationships between the papers in the final dataset.
+
+-   Three types of citation relationships:
+
+    -   **Direct citation**
+
+    -   **Bibliographic coupling**
+
+    -   Co-citation
+
+## Citation Relationships
+
+![](images/Bibliometric%20Relationships%20Slide%20Image.jpg){fig-align="center"}
+
+## Clustering
+
+-   Clusters were developed from direct citation network using Louvain community detection algorithm
+
+-   34 distinct clusters of publications
+
+-   Manually grouped in 6 categories.
+
+-   Papers not included in the giant component of the network were assigned to a cluster based on bibliographic coupling
+
+## Characterizing the clusters
+
+-   Based on text-analysis of the title and abstract of works
+
+-   Calculated tf-idf score for each term
+
+-   used top ten terms in each cluster to determine topical focus
+
+## Appendix
+
+![](images/appendix.jpg){fig-align="center"}
+
+# Measuring engagement with Canadian Forestry research
+
+# Altmetrics
+
+-   Traditional bibliometrics are focused the formal interactions in scholarly publications, primarily citations
+
+-   Measuring usage and impact of research may require looking at other types of engagement:
+
+    -   More informal researcher interactions
+
+    -   Communication to the general public
+
+    -   Use in developing policy
+
+-   These alternative measurements are **altmetrics**
+
+## Sources and types of altmetric indicators
+
+-   Discussion in mainstream media, social media, references in policy documents
+
+-   Disparate sources, often unstructured
+
+-   Different services available:
+
+    -   Altmetric (Digital Science), Plum Analytics (Elsevier), Overton, CrossRef Event Data
+
+## Altmetric (altmetric.com)
+
+-   Project of Digital Science measuring a variety of sources
+
+    -   Social Media: Twitter, FB walls, Reddit
+
+    -   Mainstream Media (4000+ sources)
+
+    -   Policy organizations (500+): gov't departments, think-tanks, EU, WHO
+
+    -   Blogs, patent data, Wikipedia citations, Mendeley, etc.
+
+## Altmetric scoring & data
+
+-   Badge (the "donut") showing breakdown of mentions\
+    ![](https://pmongeon.github.io/bibliometrics-and-scholarly-communication/images/donut-colors.png){width="546"}
+
+    -   Embedded into websites, bookmarklet
+
+-   Data retrievable through APIs
+
+## Altmetrics in our work
+
+-   Custom R code to retrieve data via APIs
+    -   Limited to publications with DOIs
+
+    -   <https://api.altmetric.com/v1/doi/10.3389/ffgc.2021.618401>
+-   Obtain counts of mentions (`cited_by_*` elements)
+-   Normalized mentions/citations by year for each publication
+-   Calculated z-scores (difference from mean, divided by standard deviation)
+
+# Demo
+
+## Altmetrics limitations & discussion
+
+-   Usually relies on a direct link or identifier (e.g., DOI)
+
+-   Sources may be more or less open
+
+    -   Social media APIs
+
+    -   Paywalled media sites
+
+-   Open to interpretation
+
+# Results
+
+## Distribution of Attention Indicators
+
+![](images/MicrosoftTeams-image%20(3).png){fig-align="center"}
+
+## Distribution of attention across cluster groups
+
+![](images/figure%202.jpg){fig-align="center"}
+
+## Average Z-scores citations, tweets, news and policy mentions
+
+![](images/table%202.jpg){fig-align="center"}
+
+## Correlation between the indicators
+
+![](images/table%203.jpg){fig-align="center"}
+
+## Top cited papers
+
+![](images/table%204.jpg){fig-align="center"}
+
+## Top tweeted papers
+
+![](images/table%205.jpg){fig-align="center"}
+
+## Top papers in the news
+
+![](images/table%206.jpg){fig-align="center"}
+
+## Top papers in policy
+
+![](images/table%207.jpg){fig-align="center"}

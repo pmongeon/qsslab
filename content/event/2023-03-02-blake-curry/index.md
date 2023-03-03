@@ -22,7 +22,7 @@ authors:
 
 tags:
 
-url_slides: 2023-03-02-ken-presentation.html
+url_slides: qsslab.ca/events/2023-03-02-blake-curry/slides.html
 
 abstract:
  ""
