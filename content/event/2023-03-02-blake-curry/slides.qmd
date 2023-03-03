@@ -6,7 +6,7 @@ format: revealjs
 
 Blake Curry, Catherine Gracey, Naomi Richards, Geoff Krause, Maddie Hare, Philippe Mongeon
 
-# Presentation plan
+## Presentation plan
 
 -   Context of our study
 
