@@ -6,6 +6,12 @@ editor: visual
 smaller: false
 ---
 
+```{css, echo=FALSE}
+.title {
+  font-size: 20px;
+}
+```
+
 # Presentation plan
 
 -   Context of our study
