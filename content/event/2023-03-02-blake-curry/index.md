@@ -15,7 +15,6 @@ address:
 authors:
   - Blake Curry
   - Catherine Gracey
-  - Naomi Richards
   - Geoff Krause
   - Maddie Hare
   - Philippe Mongeon
