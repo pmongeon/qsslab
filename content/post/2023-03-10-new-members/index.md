@@ -13,5 +13,5 @@ In September 2022, QSS Lab welcomed 10 new members! Please find the profiles of 
 
 "Do You Cite What You Tweet?" takes into account the research activity of tweeters and their relationship to tweeted paper to shed new light on the correlation between tweets and citations and sets the stage for new developments in altmetrics research. 
 
-More projects are also in progress, involving unique collaborations between QSS lab members and our external collaborators. Stay current on our current projects [here](https://www.qsslab.ca/project/).
+More projects are also in progress, involving unique collaborations between QSS lab members and our external collaborators. Stay up to date on our projects [here](https://www.qsslab.ca/project/).
              
