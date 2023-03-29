@@ -1,6 +1,6 @@
 ---
 title: Maddie Hare
-role: QSS Lab Coordinator, School of Information Management, Dalhousie University
+role: Lab Coordinator, School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
