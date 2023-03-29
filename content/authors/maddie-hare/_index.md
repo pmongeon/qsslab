@@ -1,5 +1,5 @@
 ---
-title: Maddie Hare
+title: Maddie Hare (Lab Coordinator)
 role: School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
