@@ -5,7 +5,7 @@ image:
   focal_point: 'right'
 ---
 
-QSS Lab is looking forward to welcoming [Rémi Toupin](https://www.qsslab.ca/author/remi-toupin/) back to Halifax this spring. Remi is starting two years at Dalhousie as a postdoctoral fellow. Here we profile Remi, learn about his recently completed thesis, and find out what projects he will be working on at the lab!              
+QSS Lab is looking forward to welcoming [Rémi Toupin](https://www.qsslab.ca/author/remi-toupin/) back to Halifax this spring. Remi is starting two years at Dalhousie as a FRQSC postdoctoral fellow. Here we profile Remi, learn about his recently completed thesis, and find out what projects he will be working on at the lab!              
 
 **Rémi, tell us about your doctoral thesis! What interested you in the subject and inspired you to dive deeper into this project?**
 
