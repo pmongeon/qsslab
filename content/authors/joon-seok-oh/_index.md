@@ -6,6 +6,6 @@ superuser: false
 user_groups: 
   - Current members
 ---
-I'm JoonSeok Oh. I am majoring in aeronautics at Hanseo University in South Korea. Uniquely, I'm a commercial aircraft pilot.
 
 # About Me
+I'm JoonSeok Oh. I am majoring in aeronautics at Hanseo University in South Korea. Uniquely, I'm a commercial aircraft pilot.
