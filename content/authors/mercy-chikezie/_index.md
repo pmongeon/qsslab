@@ -1,5 +1,5 @@
 ---
-title: Mercy chikezie
+title: Mercy Chikezie
 role: School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
