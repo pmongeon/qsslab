@@ -15,6 +15,6 @@ The 51st Annual Conference of the Canadian Association for Information Science/l
 
 Find the official conference program [here](https://cais2023.ca/). Additionally, the CAIS Annual General Meeting will conclude the conference on Friday, June 9th; consider attending and participating in the vibrant Canadian Information Science community!
 
-The theme of this year's conference is "Imagining Information": attendees are invted to consider imagining in its many senses and forms, from imagining potential futures for the field and our society, to the nature and function of imagination in information experiences and phenomena. We are delighted that our lab members are contributing their expertise and thoughtful perspectives to imagining better futures for the IS field and for society. 
+The theme of this year's conference is "Imagining Information": attendees are invited to consider imagining in its many senses and forms, from imagining potential futures for the field and our society, to the nature and function of imagination in information experiences and phenomena. We are delighted that our lab members are contributing their expertise and thoughtful perspectives to imagining better futures for the IS field and for society. 
 
 <!--more-->
