@@ -5,7 +5,7 @@ editor: visual
 
 # Breaking the silos
 
-**collaboration between practitioners and academics in the Canadian LIS community**
+**Collaboration between practitioners and academics in the Canadian LIS community**
 
 BRIC2023
 

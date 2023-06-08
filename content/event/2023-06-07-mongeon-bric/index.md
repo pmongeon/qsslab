@@ -1,5 +1,5 @@
 ---
-title: "Breaking the silos: collaboration between practitioners and academics in the Canadian LIS community"
+title: "Breaking the silos: Collaboration between practitioners and academics in the Canadian LIS community"
  
 event: BRIC2023
 event_url:
