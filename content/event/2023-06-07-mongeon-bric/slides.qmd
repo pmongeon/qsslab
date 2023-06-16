@@ -1,0 +1,163 @@
+---
+format: revealjs
+editor: visual
+---
+
+# Breaking the silos
+
+**Collaboration between practitioners and academics in the Canadian LIS community**
+
+BRIC2023
+
+Philippe Mongeon - [pmongeon\@dal.ca](pmongeon@dal.ca) - [www.qsslab.ca](www.qsslab.ca)\
+Dalhousie University
+
+## Presentation outline
+
+-   Breaking the silos in LIS: the project
+-   Embracing the silos: some thoughts
+
+::: notes
+So here's how my presentation is going to go. First, I'll present the breaking the silos project, which is, at the core, a database of Canadian publications by LIS academics and practitioners. The project is still underway so I won't have much results to show you (but I do have some), but I thought it would be good to share it here today.
+:::
+
+# The breaking the silos in LIS project
+
+![](images/partners.png){fig-align="center"}
+
+::: notes
+First, I want to share with you some details of a project that we undertook, with co-PI Jean-Sébastien Sauvé, assistant professor at the École de bibliothéconomie et des sciences de l'information at the Université de Montréal, and with the support of the organizations listed on the slide. We received a connection grant from SSHRC, with additional funding from CARL, and in-kind contributions from the MISTS, and EBSI.
+:::
+
+## Objectives
+
+-   Build an **open and exhaustive database** of the scholarship produced by LIS academics and practitioners in Canada.
+
+-   **Promote the scholarship** produced by LIS academics and practitioners in Canada.
+
+-   **Encourage research collaboration** between academics and practitioners in Canada.
+
+## Researcher-based field delineation
+
+-   Advantages
+
+    -   Less ambiguous than field-delineation based on topics.
+    -   Manageable scope.
+    -   Capture mutlidisciplinarity within the group/unit.
+
+-   Challenges
+
+    -   Author name disambiguation is tedious.
+
+    -   Mobility
+
+    -   Excludes LIS scholars with non-LIS affiliations and non-LIS scholars contributing to the LIS scholarship.
+
+## Data sources/process
+
+-   Canadian Academic Libraries and LIS department websites.
+
+-   Google Scholar and ORCID.
+
+-   OpenAlex
+
+# Outcomes
+
+## A dataset of LIS practitioners and academics
+
+-   About 2,630 individuals (2022 librarians, 608 academics) from 93 institutions.
+
+-   6500+ publications (journal articles, books, book chapters, conference proceedings).
+
+-   OpenAlex author IDs and work IDs, Google Scholar IDs, ORCIDs, etc.
+
+-   Citation index (including links to records outside of the dataset)
+
+-   Web app to explore and visualize the data.
+
+## Map of research by LIS academics
+
+![](images/cc_dc_nodes_labels_v3.png)
+
+## Topic specialization (publications)
+
+![](images/specialization%20index%20(publications).png){fig-align="center"}
+
+## Topic specialization (authors)
+
+![](images/specialization%20index%20(authors).png){fig-align="center"}
+
+## Collaboration between academics and practitioners (ongoing)
+
+**Two objectives**
+
+1.  To map the scholarship produced by Canadian LIS scholars and academic librarians to identify similarities and differences in research output, impact, topics, and publication venues.
+2.  To measure the degree of engagement between scholars and practitioners through research collaborations or references to the scholarship produced by each group.
+
+## Next steps
+
+-   Data cleaning.
+
+-   Publication of full dataset.
+
+-   Publication of the Shiny app.
+
+-   Publication of scripts to optimize the data collection/cleaning process.
+
+# Embracing the silos
+
+## Towards an open national bibliometric data infrastructure
+
+-   Institutional data stewardship
+
+    -   Systematic collection of research output published by the institution.
+
+        -   Only the metadata!
+
+    -   Mobilizing institutional repositories for full text when possible.
+
+    -   Disambiguation of authors affiliated with the institution.
+
+## An opportunity for libraries
+
+-   Core skills of LIS practitioners.
+-   Emerging mandate in academic libraries.
+-   Core values of LIS practitioners.
+-   Vroom's expectancy theory: Motivational Force (MF) = Expectancy x Instrumentality x Valence
+    -   **Expectancy**: Belief that the outcome will be achieved.
+
+    -   **Instrumentality**: Belief that a reward will be obtained.
+
+    -   **Valence**: The value placed on the reward/outcome.
+
+## Keeping it small and simple
+
+-   The number of individuals included in the breaking the silos project is about three times the size of Dalhousie University.
+
+-   Local data for local needs
+
+-   No more data than is needed.
+
+## The right tool for the job
+
+-   Bibliometrics do not need to be about impact.
+
+-   Technologies can be overrated.
+
+-   Beware of tools that just create more work.
+
+-   Manage your urge to automate processes.
+
+## A wish list
+
+-   Open disambiguated publication data for all Canadian universities.
+-   Open and exhaustive classification(s) of journals.
+-   Normalization denominators.
+
+# Building collective capacity, one silo at a time.
+
+# Thank you!
+
+Philippe Mongeon, Dalhousie University - [pmongeon\@dal.ca](pmongeon@dal.ca) - [www.qsslab.ca](www.qsslab.ca)
+
+![](images/partners.png){fig-align="center"}
