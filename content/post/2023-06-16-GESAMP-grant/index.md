@@ -1,5 +1,5 @@
 ---
-title: "Partnership Connection Grant Awarded to Philippe Mongeon and Rémi Toupin"
+title: "Partnership Engagement Grant Awarded to Philippe Mongeon and Rémi Toupin"
 date: 2023-06-16
 image:
   focal_point: 'right'
