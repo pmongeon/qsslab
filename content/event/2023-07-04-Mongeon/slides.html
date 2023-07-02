@@ -325,20 +325,22 @@
 
 
 <section>
-<section id="knowing-thyself" class="title-slide slide level1 center">
+<section id="knowing-thyself" class="title-slide slide level1 center" data-background-color="white" data-background-image="images/background_slide.jpg">
 <h1>Knowing thyself</h1>
-<p><strong>Bibliometrics as knowledge management tools for research units and communities</strong> <br><br>July 5th 2023 - Guest Lecture<br><br> Philippe Mongeon<br>
+<p><strong>Bibliometrics as knowledge management tools for research units and communities</strong> <br><br>July 5<sup>th</sup> 2023 - Guest Lecture<br><br> Philippe Mongeon<br>
 <a href="pmongeon@dal.ca">pmongeon@dal.ca</a><br>
 <a href="www.qsslab.ca">www.qsslab.ca</a></p>
 </section>
 <section id="presentation-outline" class="slide level2">
 <h2>Presentation outline</h2>
 <ul>
-<li>Breaking the silos in LIS: the project</li>
-<li>Embracing the silos: some thoughts</li>
+<li>Introduction to bibliometrics</li>
+<li>From research evaluation</li>
+<li>… to knowledge management</li>
+<li>Challenges and tips and tricks</li>
 </ul>
 <aside class="notes">
-<p>So here’s how my presentation is going to go. First, I’ll present the breaking the silos project, which is, at the core, a database of Canadian publications by LIS academics and practitioners. The project is still underway so I won’t have much results to show you (but I do have some), but I thought it would be good to share it here today.</p>
+
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -350,7 +352,131 @@
           overflow: hidden!important;
           display:block!important;
       }</style></aside>
+</section>
+<section id="what-are-bibliometrics" class="slide level2">
+<h2>What are bibliometrics?</h2>
+<ul>
+<li><p>“The measurement of all aspects related to the publication and reading of books and documents.” (Otlet, 1934)</p></li>
+<li><p>“the application of mathematics and statistical methods to books and other media of communication.” (Pritchard, 1969)</p></li>
+</ul>
+<p>In principle, bibliometrics could be applied to any type of documents, but in practice they are applied to scholarly outputs to <strong>measure knowledge production, dissemination, and use.</strong></p>
+</section>
+<section id="whats-in-a-name" class="slide level2">
+<h2>What’s in a name?</h2>
+<p>Bibliometrics is a widely used term to refer to the field, but it is not the only (and probably not the best) one. Other (quasi-)synonyms include:</p>
+<ul>
+<li><p>Bibliometrics, Scientometrics, info(r)metrics, altmetrics, Quantitative Science Studies</p></li>
+<li><p>Science of science, research on research</p></li>
+</ul>
+<p>Science and technology studies (STS) share the research object but not the methods (STS uses mainly qualitative methods).</p>
+</section>
+<section id="two-underlying-assumptions-of-bibliometrics" class="slide level2">
+<h2>Two underlying assumptions of bibliometrics</h2>
+<ul>
+<li><p>Peer-reviewed scholarly works are contributions to the advancement of knowledge (or units of knowledge production).</p></li>
+<li><p>Because researchers cite their sources, citations can measure the use (or impact? Quality? Importance?) of a contribution to knowledge.</p></li>
+</ul>
+</section>
+<section id="bibliometric-data" class="slide level2">
+<h2>Bibliometric data</h2>
+
+<img data-src="images/article.jpg" width="800" class="r-stretch quarto-figure-center"><p class="caption">Source: https://askabiologist.asu.edu/explore/anatomy-of-an-article</p></section>
+<section id="entities-knowable-through-bibliometrics" class="slide level2">
+<h2>Entities “knowable” through bibliometrics</h2>
+<ul>
+<li>Works</li>
+<li>Journals</li>
+<li>Publishers</li>
+<li>Authors</li>
+<li>Research organizations (e.g.&nbsp;Universities</li>
+<li>Funders</li>
+<li>Research areas</li>
+</ul>
+</section>
+<section id="data-structure" class="slide level2">
+<h2>Data structure</h2>
+
+<img data-src="images/openalex-schema.png" class="r-stretch quarto-figure-center"></section>
+<section id="bibliometric-database-vs-other-bibliograhic-database" class="slide level2">
+<h2>Bibliometric database vs other bibliograhic database</h2>
+<p>Main advantages of most of the bibliometric databases are:</p>
+<ul>
+<li>They index more metadata elements from the paper</li>
+<li>They enrich the metadata by adding elements (e.g., classifications, unique identifiers for authors and other entities)</li>
+<li><strong>They index</strong> <strong>citations,</strong> which is why these databases are often called <a href="https://en.wikipedia.org/wiki/Citation_index">citation indexes</a> (or scientific knowledge graph (SKG), which may be a better name since these databases generally include more than citations).</li>
+</ul>
+</section>
+<section id="applications-of-bibliometrics" class="slide level2">
+<h2>Applications of bibliometrics</h2>
+<ul>
+<li>Sociology of science</li>
+<li>History of science</li>
+<li>Science policy</li>
+<li>Library and Information Science</li>
+<li>Research evaluation</li>
+<li>Etc.</li>
+</ul>
 </section></section>
+<section>
+<section id="bibliometric-data-sources" class="title-slide slide level1 center">
+<h1>Bibliometric data sources</h1>
+<p>More details on my course website (in development) <a href="https://pmongeon.github.io/bibliometrics-and-scholarly-communication/ch4.html" class="uri">https://pmongeon.github.io/bibliometrics-and-scholarly-communication/ch4.html</a></p>
+</section>
+<section id="google-scholar" class="slide level2 smaller">
+<h2>Google Scholar</h2>
+<ul>
+<li>Probably the best coverage</li>
+<li>Black box</li>
+<li>Limited access to data</li>
+</ul>
+
+<img data-src="images/gs_profile.png" class="r-stretch"></section>
+<section id="web-of-science-and-incites" class="slide level2 smaller">
+<h2>Web of Science and InCites</h2>
+<ul>
+<li><p>Launched by Eugene Garfield and the Institute for Scientific Information in 1963.</p></li>
+<li><p>Main advantages: 1) are its long coverage period, 2) metadata consistency 3) clear inclusion criteria (read about the selection process <a href="https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/web-of-science/core-collection/editorial-selection-process/">here</a>).</p></li>
+<li><p>Web of Science for <strong>information retrieval</strong>, InCites for <strong>research evaluation</strong>.</p>
+<p><img data-src="images/Web_of_science_next_generation.png" width="800"></p></li>
+</ul>
+</section>
+<section id="scopus-scival-and-the-icsr-lab" class="slide level2">
+<h2>Scopus, SciVal, and the ICSR lab</h2>
+<ul>
+<li><p>Launched in 1996 by Elsevier as the first competitor to the Web of Science.</p></li>
+<li><p>Better coverage than Web of Science, but still limited.</p></li>
+<li><p>Scopus for <strong>information retrieval</strong>, SciVal for <strong>evaluation</strong>, and the ICSR lab for <strong>advanced bibliometric research</strong>.</p></li>
+</ul>
+</section>
+<section id="dimensions" class="slide level2">
+<h2>Dimensions</h2>
+<ul>
+<li><p>Relatively new database by Digital Science (owned by Springer-Nature).</p></li>
+<li><p>Broader coverage than Web of Science and Scopus.</p></li>
+<li><p>Has a&nbsp;<a href="https://app.dimensions.ai/discover/publication">free online search interface</a>.</p></li>
+<li><p>Can request access to the full database or API for research purposes.</p></li>
+</ul>
+</section>
+<section id="openalex" class="slide level2">
+<h2>OpenAlex</h2>
+<ul>
+<li><strong>Fully open</strong> bibliometric database.</li>
+<li>Accessible through an API or a database snapshot.</li>
+<li>Most comprehensive.</li>
+<li>Metadata quality and completeness sometimes lacking.</li>
+<li>Still in development.</li>
+</ul>
+</section></section>
+<section id="bibliometrics-and-research-evaluation" class="title-slide slide level1 center">
+<h1>Bibliometrics and research evaluation</h1>
+
+</section>
+
+<section id="bibliometrics-and-knowledge-management" class="title-slide slide level1 center">
+<h1>Bibliometrics and knowledge management</h1>
+
+</section>
+
 <section>
 <section id="the-breaking-the-silos-in-lis-project" class="title-slide slide level1 center">
 <h1>The breaking the silos in LIS project</h1>
