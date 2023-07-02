@@ -3,7 +3,7 @@ format: revealjs
 editor: visual
 ---
 
-# Knowing thyself {background-color="white" background-image="/images/background-slide-qss-dal-cirst.jpg"}
+# Knowing thyself {background-color="white" background-image="images/background-slide-qss-dal-cirst.jpg"}
 
 **Bibliometrics as knowledge management tools for research units and communities** <br><br>July 5^th^ 2023 - Guest Lecture<br><br> Philippe Mongeon\
 [pmongeon\@dal.ca](pmongeon@dal.ca)\
