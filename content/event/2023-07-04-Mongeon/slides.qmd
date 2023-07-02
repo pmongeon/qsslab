@@ -3,7 +3,7 @@ format: revealjs
 editor: visual
 ---
 
-# Knowing thyself {background-color="white" background-image="images/background_slide.jpg"}
+# Knowing thyself {background-color="white" background-image="/images/background-slide-qss-dal-cirst.jpg"}
 
 **Bibliometrics as knowledge management tools for research units and communities** <br><br>July 5^th^ 2023 - Guest Lecture<br><br> Philippe Mongeon\
 [pmongeon\@dal.ca](pmongeon@dal.ca)\
@@ -37,11 +37,11 @@ Bibliometrics is a widely used term to refer to the field, but it is not the onl
 
 Science and technology studies (STS) share the research object but not the methods (STS uses mainly qualitative methods).
 
-## Two underlying assumptions of bibliometrics
+## Main assumptions of bibliometrics
 
 -   Peer-reviewed scholarly works are contributions to the advancement of knowledge (or units of knowledge production).
 
--   Because researchers cite their sources, citations can measure the use (or impact? Quality? Importance?) of a contribution to knowledge.
+-   Because researchers cite their sources, citations 1) indicate a relationship between two works and 2) can measure the use (or impact? Quality? Importance?) of a contribution to knowledge.
 
 ## Bibliometric data
 
@@ -126,17 +126,37 @@ More details on my course website (in development) <https://pmongeon.github.io/b
 -   Metadata quality and completeness sometimes lacking.
 -   Still in development.
 
-# Bibliometrics and research evaluation
+## Other useful tools/resources
 
-# Bibliometrics and knowledge management
+-   [VOSviewer](https://www.vosviewer.com/)
 
-# The breaking the silos in LIS project
+-   [Gephi](https://gephi.org/)
+
+-   [Scite](https://scite.ai/)
+
+-   And many more...
+
+# From research evaluation to knowledge management
+
+## Bibliometrics and research evaluation
+
+-   Goal is to measure and/or compare performance and effectiveness.
+
+-   University Ranking (Institutions), Journal Impact factor (Journals), H-Index (Researchers).
+
+-   Often relying on external organizations operating in a black box.
+
+## Bibliometrics and knowledge management
+
+-   Goal is to gain knowledge about some unit.
+
+-   Networks visualizations, classification, topic models.
+
+-   Relies on comprehensive data access and understanding.
+
+# Case #1 - The breaking the silos in LIS project
 
 ![](images/partners.png){fig-align="center"}
-
-::: notes
-First, I want to share with you some details of a project that we undertook, with co-PI Jean-Sébastien Sauvé, assistant professor at the École de bibliothéconomie et des sciences de l'information at the Université de Montréal, and with the support of the organizations listed on the slide. We received a connection grant from SSHRC, with additional funding from CARL, and in-kind contributions from the MISTS, and EBSI.
-:::
 
 ## Objectives
 
@@ -146,7 +166,25 @@ First, I want to share with you some details of a project that we undertook, wit
 
 -   **Encourage research collaboration** between academics and practitioners in Canada.
 
-## Researcher-based field delineation
+## Data sources
+
+-   List of researchers from Canadian Academic Libraries and LIS department websites.
+
+-   Google Scholar and ORCID.
+
+-   OpenAlex
+
+## Outcome
+
+-   2,630 individuals (2022 librarians, 608 academics) from 93 institutions.
+
+-   6500+ publications (journal articles, books, book chapters, conference proceedings).
+
+-   OpenAlex author IDs and work IDs, Google Scholar IDs, ORCIDs, etc.
+
+-   Citation index (including links to records outside of the dataset).
+
+## Note on researcher-based field delineation
 
 -   Advantages
 
@@ -162,111 +200,64 @@ First, I want to share with you some details of a project that we undertook, wit
 
     -   Excludes LIS scholars with non-LIS affiliations and non-LIS scholars contributing to the LIS scholarship.
 
-## Data sources/process
-
--   Canadian Academic Libraries and LIS department websites.
-
--   Google Scholar and ORCID.
-
--   OpenAlex
-
-# Outcomes
-
-## A dataset of LIS practitioners and academics
-
--   About 2,630 individuals (2022 librarians, 608 academics) from 93 institutions.
-
--   6500+ publications (journal articles, books, book chapters, conference proceedings).
-
--   OpenAlex author IDs and work IDs, Google Scholar IDs, ORCIDs, etc.
-
--   Citation index (including links to records outside of the dataset)
-
--   Web app to explore and visualize the data.
-
 ## Map of research by LIS academics
 
 ![](images/cc_dc_nodes_labels_v3.png)
 
-## Topic specialization (publications)
+## Characterizing the clusters
+
+-   Tokenize abstract.
+-   Remove stop words.
+-   TF-IDF at the cluster level rather than the document level.
+-   Top TF-IDF weithed words to represent the clusters.
+
+![](images/clusters_descriptions.png){fig-align="center"}
+
+## Canadian LIS department specialization (publications)
 
 ![](images/specialization%20index%20(publications).png){fig-align="center"}
 
-## Topic specialization (authors)
+## Canadian LIS department specialization (authors)
 
 ![](images/specialization%20index%20(authors).png){fig-align="center"}
 
-## Collaboration between academics and practitioners (ongoing)
+# Case study #2 - Race-related research in LIS
 
-**Two objectives**
+## Objectives
 
-1.  To map the scholarship produced by Canadian LIS scholars and academic librarians to identify similarities and differences in research output, impact, topics, and publication venues.
-2.  To measure the degree of engagement between scholars and practitioners through research collaborations or references to the scholarship produced by each group.
+1.  Provide empirical evidence of the extent of LIS scholarship that includes race and/or racial inequity as an area of focus.
+2.  Analyzing the distribution of this research across subareas of the field.
 
-## Next steps
+## Data
 
--   Data cleaning.
+-   All publications from the Web of Science in the Library and Information Science specialty (NSF classification).
+-   A list of terms related to race and inequality.
 
--   Publication of full dataset.
+## Trends in publications talking about race or inequality
 
--   Publication of the Shiny app.
+![](images/share_of_lis_papers_mentioning_race.png){fig-align="center"}
 
--   Publication of scripts to optimize the data collection/cleaning process.
+## Mapping the field
 
-# Embracing the silos
+![](images/map_of_LIS_race_paper.png){fig-align="center"}
 
-## Towards an open national bibliometric data infrastructure
+## Map of race-related research only
 
--   Institutional data stewardship
+![](images/map_of_bipoc_related_lis_research.png){fig-align="center"}
 
-    -   Systematic collection of research output published by the institution.
+## Distribution and relative impact in the broader context
 
-        -   Only the metadata!
+![](images/race-related-summary.png){fig-align="center"}
 
-    -   Mobilizing institutional repositories for full text when possible.
+## Starting a bibliometric project on the right foot
 
-    -   Disambiguation of authors affiliated with the institution.
+-   Start with a clear goal and stick to it as much as possible.
+-   Choose data sources that meet **your** need (metadata available, coverage).
+-   Remember that technologies/tools can be overrated (focus on the goal and the data).
+-   Manage your urge to automate processes that can/should be done manually.
 
-## An opportunity for libraries
+# Thank you! {background-color="white" background-image="/images/background-slide-qss-dal-cirst.jpg"}
 
--   Core skills of LIS practitioners.
--   Emerging mandate in academic libraries.
--   Core values of LIS practitioners.
--   Vroom's expectancy theory: Motivational Force (MF) = Expectancy x Instrumentality x Valence
-    -   **Expectancy**: Belief that the outcome will be achieved.
-
-    -   **Instrumentality**: Belief that a reward will be obtained.
-
-    -   **Valence**: The value placed on the reward/outcome.
-
-## Keeping it small and simple
-
--   The number of individuals included in the breaking the silos project is about three times the size of Dalhousie University.
-
--   Local data for local needs
-
--   No more data than is needed.
-
-## The right tool for the job
-
--   Bibliometrics do not need to be about impact.
-
--   Technologies can be overrated.
-
--   Beware of tools that just create more work.
-
--   Manage your urge to automate processes.
-
-## A wish list
-
--   Open disambiguated publication data for all Canadian universities.
--   Open and exhaustive classification(s) of journals.
--   Normalization denominators.
-
-# Building collective capacity, one silo at a time.
-
-# Thank you!
-
-Philippe Mongeon, Dalhousie University - [pmongeon\@dal.ca](pmongeon@dal.ca) - [www.qsslab.ca](www.qsslab.ca)
-
-![](images/partners.png){fig-align="center"}
+Philippe Mongeon, Dalhousie University\
+[pmongeon\@dal.ca](pmongeon@dal.ca)\
+[www.qsslab.ca](www.qsslab.ca)
