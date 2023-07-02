@@ -187,13 +187,10 @@ More details on my course website (in development) <https://pmongeon.github.io/b
 ## Note on researcher-based field delineation
 
 -   Advantages
-
     -   Less ambiguous than field-delineation based on topics.
     -   Manageable scope.
     -   Capture mutlidisciplinarity within the group/unit.
-
 -   Challenges
-
     -   Author name disambiguation is tedious.
 
     -   Mobility
