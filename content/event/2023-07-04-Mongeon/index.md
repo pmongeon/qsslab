@@ -9,7 +9,7 @@ authors:
   - Philippe Mongeon
 tags:
 
-#url_slides: 'slides.html'
+url_slides: 'slides.html'
  
  
 # Talk start and end times.
