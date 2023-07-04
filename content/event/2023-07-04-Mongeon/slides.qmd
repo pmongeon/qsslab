@@ -5,7 +5,7 @@ editor: visual
 
 # Knowing thyself {background-color="white" background-image="images/background-slide-qss-dal-cirst.jpg"}
 
-**Bibliometrics as knowledge management tools for research units and communities** <br><br>July 5^th^ 2023 - Guest Lecture<br><br> Philippe Mongeon\
+**Bibliometrics as knowledge management tools for research units and communities** <br><br>July 4, 2023 - Guest Lecture @ University of Hagen<br><br> Philippe Mongeon\
 [pmongeon\@dal.ca](pmongeon@dal.ca)\
 [www.qsslab.ca](www.qsslab.ca)
 
@@ -252,6 +252,7 @@ More details on my course website (in development) <https://pmongeon.github.io/b
 -   Choose data sources that meet **your** need (metadata available, coverage).
 -   Remember that technologies/tools can be overrated (focus on the goal and the data).
 -   Manage your urge to automate processes that can/should be done manually.
+-   Consult or collaborate with a bibliometrician.
 
 # Thank you! {background-color="white" background-image="/images/background-slide-qss-dal-cirst.jpg"}
 
