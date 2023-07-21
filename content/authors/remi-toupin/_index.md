@@ -1,10 +1,10 @@
 ---
 title: Rémi Toupin
-role: PhD Candidate, Université du Québec à Montréal (UQAM)
+role: Postdoctoral Fellow, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Collaborators
+  - members
 ---
 
 # Bio

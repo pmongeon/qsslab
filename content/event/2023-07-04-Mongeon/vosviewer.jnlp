@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://www.vosviewer.com">
+<information>
+  <title>VOSviewer</title>
+  <vendor>Nees Jan van Eck and Ludo Waltman</vendor>
+  <homepage href="https://www.vosviewer.com"/>
+  <description>VOSviewer</description>
+  <icon href="https://www.vosviewer.com/images/vosviewer.gif"/>
+  <icon kind="splash" href="https://www.vosviewer.com/images/splash.png"/>
+  <offline-allowed/>
+</information>
+<security>
+  <all-permissions/>
+</security>
+<resources>
+  <j2se version="1.6+"/>
+  <jar href="VOSviewer.jar"/>
+</resources>
+<application-desc main-class="com.vosviewer.VOSviewer">
+</application-desc>
+</jnlp>

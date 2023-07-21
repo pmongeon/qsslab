@@ -1,0 +1,261 @@
+---
+format: revealjs
+editor: visual
+---
+
+# Knowing thyself {background-color="white" background-image="images/background-slide-qss-dal-cirst.jpg"}
+
+**Bibliometrics as knowledge management tools for research units and communities** <br><br>July 4, 2023 - Guest Lecture @ University of Hagen<br><br> Philippe Mongeon\
+[pmongeon\@dal.ca](pmongeon@dal.ca)\
+[www.qsslab.ca](www.qsslab.ca)
+
+## Presentation outline
+
+-   Introduction to bibliometrics
+-   From research evaluation
+-   ... to knowledge management
+-   Challenges and tips and tricks
+
+::: notes
+:::
+
+## What are bibliometrics?
+
+-   "The measurement of all aspects related to the publication and reading of books and documents." (Otlet, 1934)
+
+-   "the application of mathematics and statistical methods to books and other media of communication." (Pritchard, 1969)
+
+In principle, bibliometrics could be applied to any type of documents, but in practice they are applied to scholarly outputs to **measure knowledge production, dissemination, and use.**
+
+## What's in a name?
+
+Bibliometrics is a widely used term to refer to the field, but it is not the only (and probably not the best) one. Other (quasi-)synonyms include:
+
+-   Bibliometrics, Scientometrics, info(r)metrics, altmetrics, Quantitative Science Studies
+
+-   Science of science, research on research
+
+Science and technology studies (STS) share the research object but not the methods (STS uses mainly qualitative methods).
+
+## Main assumptions of bibliometrics
+
+-   Peer-reviewed scholarly works are contributions to the advancement of knowledge (or units of knowledge production).
+
+-   Because researchers cite their sources, citations 1) indicate a relationship between two works and 2) can measure the use (or impact? Quality? Importance?) of a contribution to knowledge.
+
+## Bibliometric data
+
+![Source: https://askabiologist.asu.edu/explore/anatomy-of-an-article](images/article.jpg){fig-align="center" width="800"}
+
+## Entities "knowable" through bibliometrics
+
+-   Works
+-   Journals
+-   Publishers
+-   Authors
+-   Research organizations (e.g. Universities
+-   Funders
+-   Research areas
+
+## Data structure
+
+![](images/openalex-schema.png){fig-align="center"}
+
+## Bibliometric database vs other bibliograhic database
+
+Main advantages of most of the bibliometric databases are:
+
+-   They index more metadata elements from the paper
+-   They enrich the metadata by adding elements (e.g., classifications, unique identifiers for authors and other entities)
+-   **They index** **citations,** which is why these databases are often called [citation indexes](https://en.wikipedia.org/wiki/Citation_index) (or scientific knowledge graph (SKG), which may be a better name since these databases generally include more than citations).
+
+## Applications of bibliometrics
+
+-   Sociology of science
+-   History of science
+-   Science policy
+-   Library and Information Science
+-   Research evaluation
+-   Etc.
+
+# Bibliometric data sources
+
+More details on my course website (in development) <https://pmongeon.github.io/bibliometrics-and-scholarly-communication/ch4.html>
+
+## Google Scholar {.smaller}
+
+-   Probably the best coverage
+-   Black box
+-   Limited access to data
+
+![](images/gs_profile.png)
+
+## Web of Science and InCites {.smaller}
+
+-   Launched by Eugene Garfield and the Institute for Scientific Information in 1963.
+
+-   Main advantages: 1) are its long coverage period, 2) metadata consistency 3) clear inclusion criteria (read about the selection process [here](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/web-of-science/core-collection/editorial-selection-process/)).
+
+-   Web of Science for **information retrieval**, InCites for **research evaluation**.
+
+    ![](images/Web_of_science_next_generation.png){width="800"}
+
+## Scopus, SciVal, and the ICSR lab
+
+-   Launched in 1996 by Elsevier as the first competitor to the Web of Science.
+
+-   Better coverage than Web of Science, but still limited.
+
+-   Scopus for **information retrieval**, SciVal for **evaluation**, and the ICSR lab for **advanced bibliometric research**.
+
+## Dimensions
+
+-   Relatively new database by Digital Science (owned by Springer-Nature).
+
+-   Broader coverage than Web of Science and Scopus.
+
+-   Has a [free online search interface](https://app.dimensions.ai/discover/publication).
+
+-   Can request access to the full database or API for research purposes.
+
+## OpenAlex
+
+-   **Fully open** bibliometric database.
+-   Accessible through an API or a database snapshot.
+-   Most comprehensive.
+-   Metadata quality and completeness sometimes lacking.
+-   Still in development.
+
+## Other useful tools/resources
+
+-   [VOSviewer](https://www.vosviewer.com/)
+
+-   [Gephi](https://gephi.org/)
+
+-   [Scite](https://scite.ai/)
+
+-   And many more...
+
+# From research evaluation to knowledge management
+
+## Bibliometrics and research evaluation
+
+-   Goal is to measure and/or compare performance and effectiveness.
+
+-   University Ranking (Institutions), Journal Impact factor (Journals), H-Index (Researchers).
+
+-   Often relying on external organizations operating in a black box.
+
+## Bibliometrics and knowledge management
+
+-   Goal is to gain knowledge about some unit.
+
+-   Networks visualizations, classification, topic models.
+
+-   Relies on comprehensive data access and understanding.
+
+# Case #1 - The breaking the silos in LIS project
+
+![](images/partners.png){fig-align="center"}
+
+## Objectives
+
+-   Build an **open and exhaustive database** of the scholarship produced by LIS academics and practitioners in Canada.
+
+-   **Promote the scholarship** produced by LIS academics and practitioners in Canada.
+
+-   **Encourage research collaboration** between academics and practitioners in Canada.
+
+## Data sources
+
+-   List of researchers from Canadian Academic Libraries and LIS department websites.
+
+-   Google Scholar and ORCID.
+
+-   OpenAlex
+
+## Outcome
+
+-   2,630 individuals (2022 librarians, 608 academics) from 93 institutions.
+
+-   6500+ publications (journal articles, books, book chapters, conference proceedings).
+
+-   OpenAlex author IDs and work IDs, Google Scholar IDs, ORCIDs, etc.
+
+-   Citation index (including links to records outside of the dataset).
+
+## Note on researcher-based field delineation
+
+-   Advantages
+    -   Less ambiguous than field-delineation based on topics.
+    -   Manageable scope.
+    -   Capture mutlidisciplinarity within the group/unit.
+-   Challenges
+    -   Author name disambiguation is tedious.
+
+    -   Mobility
+
+    -   Excludes LIS scholars with non-LIS affiliations and non-LIS scholars contributing to the LIS scholarship.
+
+## Map of research by LIS academics
+
+![](images/cc_dc_nodes_labels_v3.png)
+
+## Characterizing the clusters
+
+-   Tokenize abstract.
+-   Remove stop words.
+-   TF-IDF at the cluster level rather than the document level.
+-   Top TF-IDF weithed words to represent the clusters.
+
+![](images/clusters_descriptions.png){fig-align="center"}
+
+## Canadian LIS department specialization (publications)
+
+![](images/specialization%20index%20(publications).png){fig-align="center"}
+
+## Canadian LIS department specialization (authors)
+
+![](images/specialization%20index%20(authors).png){fig-align="center"}
+
+# Case study #2 - Race-related research in LIS
+
+## Objectives
+
+1.  Provide empirical evidence of the extent of LIS scholarship that includes race and/or racial inequity as an area of focus.
+2.  Analyzing the distribution of this research across subareas of the field.
+
+## Data
+
+-   All publications from the Web of Science in the Library and Information Science specialty (NSF classification).
+-   A list of terms related to race and inequality.
+
+## Trends in publications talking about race or inequality
+
+![](images/share_of_lis_papers_mentioning_race.png){fig-align="center"}
+
+## Mapping the field
+
+![](images/map_of_LIS_race_paper.png){fig-align="center"}
+
+## Map of race-related research only
+
+![](images/map_of_bipoc_related_lis_research.png){fig-align="center"}
+
+## Distribution and relative impact in the broader context
+
+![](images/race-related-summary.png){fig-align="center"}
+
+## Starting a bibliometric project on the right foot
+
+-   Start with a clear goal and stick to it as much as possible.
+-   Choose data sources that meet **your** need (metadata available, coverage).
+-   Remember that technologies/tools can be overrated (focus on the goal and the data).
+-   Manage your urge to automate processes that can/should be done manually.
+-   Consult or collaborate with a bibliometrician.
+
+# Thank you! {background-color="white" background-image="/images/background-slide-qss-dal-cirst.jpg"}
+
+Philippe Mongeon, Dalhousie University\
+[pmongeon\@dal.ca](pmongeon@dal.ca)\
+[www.qsslab.ca](www.qsslab.ca)
