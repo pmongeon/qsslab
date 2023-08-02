@@ -11,7 +11,7 @@ The Canadian Journal of Information and Library Science (CJILS/RCSIB) is an open
 
 Established in 1976, the journal is recognized internationally for its authoritative bilingual contributions to library and information science research. The editorial policy of the journal is to continue the advancement of library and information science in both English and French in Canada by serving as a forum for discussion of theory and research.
 
-Philippe is a former President of CAIS (2019-2021) and its currents Awards Coordinator. We are excited that he will be taking on this new role in the CAIS community.
+Philippe is a former President of CAIS (2019-2021) and its current Awards Coordinator. We are excited that he will be taking on this new role in the CAIS community.
 
 
 Visit the CJILS website [here](https://ojs.lib.uwo.ca/index.php/cjils/index).
