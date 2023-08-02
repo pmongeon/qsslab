@@ -1,6 +1,6 @@
 ---
 title: "Philippe Mongeon New Editor of CJILS"
-date: 2023-08-10
+date: 2023-08-02
 image:
   focal_point: 'right'
 ---
