@@ -4,7 +4,7 @@ role: Postdoctoral Fellow, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Current members
+  - members
 ---
 
 # Bio
