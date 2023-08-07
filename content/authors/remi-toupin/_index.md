@@ -1,10 +1,10 @@
 ---
 title: Rémi Toupin
 role: Postdoctoral Fellow, Dalhousie University
-avatar_filename: avatar2.jpg
+avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - members
+  - Current members
 ---
 
 # Bio
