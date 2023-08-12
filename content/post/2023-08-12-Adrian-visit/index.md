@@ -1,6 +1,6 @@
 ---
 title: "Visiting researcher: Adrián A. Díaz-Faes"
-date: 2023-08-10
+date: 2023-08-12
 image:
   focal_point: 'right'
 ---
