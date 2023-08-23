@@ -1,17 +1,17 @@
 ---
 title: Maddie Hare
-role: Lab Coordinator, School of Information Management, Dalhousie University
+role: Digital Transformation & Innovation PhD student, University of Ottawa
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
 
-- Current members
+- Collaborators
 
 social:
 
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maddie.hare@dal.ca'
+  link: 'mailto:maddie.hare@uottawa.ca'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/madelaine-h-8a98b522b/
@@ -22,4 +22,6 @@ social:
 
 # About Maddie
 
-Maddie Hare is a Master of Information student at Dalhousie University. She graduated from Dalhousie in 2017 and 2021 respectively with her BA and MA, both in History. Her MA thesis studied the plantation records of one Jamaican estate and discussed the amelioration of slavery at the sugar work in its historical and historiographical context. Maddie is embracing data-intensive research and hopes to develop meaningful projects using inclusive data practices that consider real world problems. Her other interests include data literacy, human-information interaction, the curation and preservation of long-term digital cultural memory- the list goes on. 
+Maddie Hare is a PhD student in the Digital Transformation & Innovation program at the University of Ottawa. She graduated from Dalhousie in 2017, 2021, and 2023, respectively with her BA and MA (both in History) and her MI. Maddie seeks to use bibliometrics to illuminate the dynamics and evolution of scholarly communities, and the global scientific research system more broadly. She is intrigued by ongoing developments in Open Science and scholarly publishing and combines these topics with her interest in the processes of learning and teaching in higher education, and the importance of fostering multiple types of literacies in researchers. She believes in bridging disciplinary divides to develop innovative approaches to real-world challenges.
+
+
