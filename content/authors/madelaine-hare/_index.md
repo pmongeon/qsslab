@@ -1,5 +1,5 @@
 ---
-title: Madelaine (Maddie) Hare
+title: Madelaine Hare
 role: Digital Transformation & Innovation PhD student, University of Ottawa
 avatar_filename: avatar.jpg
 superuser: false
