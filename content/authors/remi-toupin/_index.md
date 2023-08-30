@@ -1,6 +1,6 @@
 ---
 title: Rémi Toupin
-role: Postdoctoral Fellow, Dalhousie University
+role: QSSLab Coordinator, Postdoctoral Fellow, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
