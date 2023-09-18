@@ -1,6 +1,6 @@
 ---
 title: "Visiting researcher: Jérémie Dion"
-date: 2023-10-01
+date: 2023-09-18
 image:
   focal_point: 'right'
 ---
