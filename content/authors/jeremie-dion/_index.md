@@ -1,6 +1,6 @@
 ---
 title: Jérémie Dion
-role: PhD student, Université de Montréal
+role: PhD student, Université du Québec à Montréal
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
