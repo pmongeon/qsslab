@@ -1,6 +1,6 @@
 ---
 title: "QSSLab attends STI 2023"
-date: 2023-10-01
+date: 2023-09-29
 image:
   focal_point: 'right'
 ---
