@@ -1,7 +1,6 @@
 ---
 title: "QSSLab attends STI 2023"
 date: 2023-09-29
-Author: Maddie Hare
 image:
   focal_point: 'right'
 ---
@@ -15,6 +14,8 @@ Philippe Mongeon and Maddie Hare presented the paper "Do you cite what you tweet
 Rémi Toupin presented his work ["Public attention to research on Twitter through storytelling: making a narrative out of tweets to a scientific article"](https://dapp.orvium.io/deposits/6442b7baa84b45d56155fa48/view).
 
 Geoff Krause presented the poster "Measuring Data Re-Use Through Dataset Citations in OpenAlex". Preprint available [here](https://arxiv.org/abs/2308.04379).
+
+Marc-André Simard presented the paper ["Worldwide trends in brain research: A bibliometric analysis"](https://dapp.orvium.io/deposits/6442ce06e39b0da8d987cf36/view).
 
 Stay up to date on QSSLab projects [here](https://www.qsslab.ca/project/).
 
