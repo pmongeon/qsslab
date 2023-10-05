@@ -4,6 +4,7 @@ date: 2023-08-02
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 Please join us in congratulating Director of the QSSLab, [Philippe Mongeon](https://www.qsslab.ca/author/philippe-mongeon/), for his new position as Editor of the Canadian Journal of Library and Information Science (CJILS/RCSIB)!
 

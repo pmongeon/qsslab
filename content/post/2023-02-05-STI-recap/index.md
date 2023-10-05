@@ -5,6 +5,8 @@ image:
   focal_point: 'right'
 ---
 
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
+
 In early September, 2022, members of the QSS Lab travelled to Granada, Spain for the 26th International Conference on Science, Technology and Innovation Indicators hosted at the Universidad de Granada. The conference featured three days of oral communication sessions, an event dedicated for Women in Science Policy (WISP) and a PhD student round table.
 
 The QSS Lab presented four studies at the conference. Director of the QSS Lab, Dr. Philippe Mongeon, presented his work “On the Impact of Geo-contextualized and Local Research in the Global North and South”. MI graduate Kydra Mayhew presented a study entitled “On the Citation Relationship Between Industry Funded and Publicly Funded Canadian Food Research Publications” and a poster session for her work “On the coverage of historical journals in Web of Science and Scopus”. Maddie Hare presented her research-in-progress “The Impact of Mentorship on the Research Performance of LIS PhDs”.

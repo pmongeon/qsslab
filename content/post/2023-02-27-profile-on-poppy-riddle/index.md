@@ -4,6 +4,8 @@ date: 2023-02-24
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
+
 *Poppy Riddle is a doctoral student in the Dalhousie Interdisciplinary PhD (IDPhD) program where she combines her interests in library and information science (LIS) and human-computer interaction (HCI). This profile highlights the extension of Poppy's thesis research in the Master of Information (MI) program into her PhD research, current projects she is working on, and her experience working in the QSS lab!*
 
 **Poppy, what was your MI thesis topic? What interested you in the subject and inspired you to dive deeper?**

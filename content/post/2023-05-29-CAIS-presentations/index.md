@@ -4,6 +4,7 @@ date: 2023-05-29
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 The 51st Annual Conference of the Canadian Association for Information Science/l’Association canadienne des sciences de l’information (CAIS/ACSI) will be taking place on June 6-9, 2023. Three members of QSSLab will be presenting their work at the conference as well as participating in the student research forum. 
 

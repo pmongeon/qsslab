@@ -4,6 +4,7 @@ date: 2023-08-12
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 Adrián Díaz-Faes is a visiting researcher with the QSSLab during August and September. Adrián is a social scientist interested in understanding collaboration and knowledge co-creation processes in science and innovation. His research brings together theoretical and empirical insights from quantitative science studies, social networks, and innovation studies.
 
