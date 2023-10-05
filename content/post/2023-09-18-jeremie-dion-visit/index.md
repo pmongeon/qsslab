@@ -1,6 +1,6 @@
 ---
 title: "Visiting researcher: Jérémie Dion"
-author: Madelaine Hare
+author: "Madelaine Hare"
 date: 2023-09-18
 image:
   focal_point: 'right'
