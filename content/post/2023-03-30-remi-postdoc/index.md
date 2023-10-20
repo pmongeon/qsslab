@@ -4,6 +4,7 @@ date: 2023-03-24
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 QSS Lab is looking forward to welcoming [Rémi Toupin](https://www.qsslab.ca/author/remi-toupin/) back to Halifax this spring. Remi is starting two years at Dalhousie as a FRQSC postdoctoral fellow. Here we profile Remi, learn about his recently completed thesis, and find out what projects he will be working on at the lab!              
 

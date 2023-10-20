@@ -4,6 +4,7 @@ date: 2023-09-29
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 The [27th International Conference on Science, Technology and Innovation Indicators](https://www.sti2023.org), 2023, was held September 27-29, 2023 in Leiden, The Netherlands. The 2023 edition focused on improving scholarly evaluation practices in the light of cultural change. Several members of the QSSLab also attended the fifth [CWTS Scientometrics Summer School](https://www.cwts.nl/education/cwts-course-program/cwts-scientometrics-summer-school-2023) before the conference. 
 

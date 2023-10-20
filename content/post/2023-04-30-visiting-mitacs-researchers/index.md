@@ -4,6 +4,7 @@ date: 2023-02-17
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 QSSLab is looking forward to hosting two research interns this summer through the Mitacs Globalink Research program! Valeriia Moroz and JoonSeok Oh will be working with the lab from June until September 2023. 
 

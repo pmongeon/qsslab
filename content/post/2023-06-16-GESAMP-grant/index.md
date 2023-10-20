@@ -4,6 +4,7 @@ date: 2023-06-16
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 How is grey literature about marine protection cited in policy documents and scholarly literature? Philippe Mongeon and Rémi Toupin have been awarded a Partnership Engagement Grant from the Social Science and Humanities Research Council (SSHRC) for the project The mobilization of scientific expertise through grey literature: the case of GESAMP. With this grant, the research team will investigate the reach and visibility of reports produced by the Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection), an advisory body to the UN on matters of marine environmental protection. This project is a partnership with GESAMP, the QSSLab, and the Environmental Information Use and Influence (EIUI) research group located at Dalhousie University. 
 
