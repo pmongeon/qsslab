@@ -4,6 +4,8 @@ date: 2023-02-17
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
+
 In October 2022, several members of the QSS Lab presented at Metrics 2022: ASIS&T Virtual Workshop on Informetrics and Scientometrics Research sponsored by Elsevier’s International Center for the Study of Research (ICSR). Both Poppy Riddle and Geoff Krause were awarded Best Student Paper. Congratulations to Poppy and Geoff for their outstanding presentations and research!
 
 Geoff Krause presented the study "Who re-uses data? A bibliometric analysis of data citations and the relationship between authors and data creators" (Krause, G., Bowman, T., Rosati, D., Mongeon, P., & Smit, M.)

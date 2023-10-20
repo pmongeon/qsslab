@@ -4,6 +4,7 @@ date: 2023-02-06
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 In early September, 2022, members of the QSS Lab travelled to Granada, Spain for the 26th International Conference on Science, Technology and Innovation Indicators hosted at the Universidad de Granada. The conference featured three days of oral communication sessions, an event dedicated for Women in Science Policy (WISP) and a PhD student round table.
 
