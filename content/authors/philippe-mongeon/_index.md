@@ -1,9 +1,9 @@
 ---
 title: Philippe Mongeon
-role: Assistant Professor, School of Information Management, Dalhousie University
+role: Associate Professor, Department of Information Science, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
-#bio: "I am an assistant professor at the 
+#bio: "I am an Associate Professor at the 
 #[School of Information Management](https://www.dal.ca/faculty/management/school-of-information-management.html) at Dalhousie University, 
 #director of the Quantitative Science Studies Lab, 
 #and associate member of the 
@@ -53,9 +53,8 @@ user_groups:
 ---
 
 # About me
-I am an assistant professor at the [School of Information Management](https://www.dal.ca/faculty/management/school-of-information-management.html) 
+I am an Associate Professor at the [Department of Information Science](https://www.dal.ca/faculty/management/school-of-information-management.html) 
 at Dalhousie University, director of the Quantitative Science Studies Lab, 
-associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/)
-and a member of the [Environmental Information: Use and Influence (EIUI)](https://eiui.ca) research group.
+associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/), and a visiting researcher at the [Centre for Science and Technology Studies](https://www.cwts.nl/).
 
-My research uses bibliometric and other quantitative methods to study the dynamics and practices of knowledge production, dissemination and use, as well as research evaluation and governance. More specifically, I work on a broad range of topics, such as research collaboration, scientific misconduct, scholarly publishing, data sharing, research funding, social media, networks, and the evolution of scientific fields. I like to adopt a critical perspective in my research, teaching, and service as I strive to help the scientific communities better fulfill their societal roles.
+My research uses bibliometric and other quantitative methods to study the dynamics and practices of knowledge production, dissemination and use, as well as research evaluation and governance. More specifically, I work on a broad range of topics, such as research collaboration, scientific misconduct, scholarly publishing, data sharing, research funding, social media, networks, and the evolution of scientific fields. 
