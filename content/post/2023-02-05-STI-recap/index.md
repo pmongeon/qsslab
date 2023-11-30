@@ -4,6 +4,7 @@ date: 2023-02-06
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
