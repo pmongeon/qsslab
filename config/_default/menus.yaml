@@ -10,12 +10,12 @@ main:
   - name: News & Blog
     url: post
     weight: 20
-  - name: People
+  - name: Team
     url: people
     weight: 30
-  - name: Projects
-    url: project
-    weight: 35
+ # - name: Projects
+ #   url: project
+ #   weight: 35
   - name: Events/Talks
     url: event
     weight: 40
