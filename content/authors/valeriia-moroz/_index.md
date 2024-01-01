@@ -4,7 +4,7 @@ role: Globalink Mitacs Intern, Sumy State University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups: 
-  - Current members
+  - Collaborators
 ---
 
 # About Me
