@@ -53,7 +53,7 @@ user_groups:
 ---
 
 # About me
-I am an Associate Professor in the Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) (Faculty of Management)
+I am an Associate Professor in the [Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) (Faculty of Management)
 at Dalhousie University, director of the Quantitative Science Studies Lab, 
 associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/), and a visiting researcher at the [Centre for Science and Technology Studies](https://www.cwts.nl/).
 
