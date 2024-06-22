@@ -39,7 +39,7 @@ social:
   link: https://twitter.com/philippemongeon
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en
+  link: https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en  
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/pmongeon
