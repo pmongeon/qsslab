@@ -1,6 +1,6 @@
 ---
 title: Catherine Gracey
-role: School of Information Management, Dalhousie University
+role: Master of Information, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups: 

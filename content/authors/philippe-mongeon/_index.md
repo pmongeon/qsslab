@@ -1,9 +1,9 @@
 ---
 title: Philippe Mongeon
-role: Assistant Professor, School of Information Management, Dalhousie University
+role: Associate Professor, Department of Information Science, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
-#bio: "I am an assistant professor at the 
+#bio: "I am an Associate Professor at the 
 #[School of Information Management](https://www.dal.ca/faculty/management/school-of-information-management.html) at Dalhousie University, 
 #director of the Quantitative Science Studies Lab, 
 #and associate member of the 
@@ -39,7 +39,7 @@ social:
   link: https://twitter.com/philippemongeon
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en
+  link: https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en  
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/pmongeon
@@ -53,9 +53,8 @@ user_groups:
 ---
 
 # About me
-I am an assistant professor at the [School of Information Management](https://www.dal.ca/faculty/management/school-of-information-management.html) 
-at Dalhousie University, director of the Quantitative Science Studies Lab, 
-associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/)
-and a member of the [Environmental Information: Use and Influence (EIUI)](https://eiui.ca) research group.
+I am an Associate Professor in the [Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) (Faculty of Management)
+at Dalhousie University, director of the Quantitative Science Studies Lab, Editor-in-Chief of the [Canadian Journal of Information and Library Science - La Revue canadienne des sciences de l'information et de bibliothéconomie (CJILS-RCSIB)](https://www.erudit.org/en/journals/cjils/),
+associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/), and a visiting researcher at the [Centre for Science and Technology Studies](https://www.cwts.nl/).
 
-My research uses bibliometric and other quantitative methods to study the dynamics and practices of knowledge production, dissemination and use, as well as research evaluation and governance. More specifically, I work on a broad range of topics, such as research collaboration, scientific misconduct, scholarly publishing, data sharing, research funding, social media, networks, and the evolution of scientific fields. I like to adopt a critical perspective in my research, teaching, and service as I strive to help the scientific communities better fulfill their societal roles.
+My research uses bibliometric and other quantitative methods to study the dynamics and practices of knowledge production, dissemination and use, as well as research evaluation and governance. More specifically, I work on a broad range of topics, such as research collaboration, scientific misconduct, scholarly publishing, data sharing, research funding, social media, networks, and the evolution of scientific fields. 
