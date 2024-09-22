@@ -9,7 +9,7 @@ By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
 
 Congratulations to Geoff Krause (IDPhD) and Rebecca Marjoram (MI), 2024 Coalition Publica scholarship recipients!
 
-Geoff Krause is an Interdisciplinary PhD student based in the Department of Information Science. He was awarded funding for his project "Defining the scope of academic journals through computational text analysis". 
+Geoff Krause is an Interdisciplinary PhD student based in the Department of Information Science. He was awarded funding for his project "Defining the scope of academic journals through computational text analysis". His project aims to propose measures of the scope of academic journals and to explore the relationship between the scope and other journal characteristics such as the field, the type of publisher, the publishing model, age, and Impact Factor. 
 
 Rebecca Marjoram, Master of Information student, was awarded the scholarship for her thesis entitled "Privilege in publishing: Investigating the impact of scientific reputation and sociodemographic factors on peer review outcomes". Her project asks: If you're a researcher who has been publishing in your field for years, you have a high number of citations, and loads of publications to your name, do you really need to fit the scope of a journal to publish in it? Or do you get to lead the discourse of the community? Those are some of the questions this project seeks to answer. We're going to determine the scope of the top journals across 174 scientific sub-fields and see what impact academic reputation and other sociodemographic factors have (e.g. Inferred gender, inferred ethnicity) on the need for authors to fit the scope of a journal in order to be accepted for publication.
 
