@@ -10,10 +10,8 @@ Geoff Krause presented his ongoing doctoral work "Well-tailored words: Comparing
 
 Rebecca Marjoram presented preliminary results for her Masters thesis project "Privilege in publishing: Investigating the impact of scientific reputation on peer review outcomes".
 
-Philippe Mongeon presented a poster by Poppy Riddle, Rémi Toupin, Maddie Hare, Geoff Krause, and himself, entitled "Mapping the UN Second World Ocean Assessment: Challenges and opportunities" which is preliminary investigation of a larger [OFI seed-funded project](https://www.qsslab.ca/post/2023-10-20-ofi-grant/).
+Philippe Mongeon presented a poster by Poppy Riddle, Rémi Toupin, Maddie Hare, Geoff Krause, and himself, entitled "Mapping the UN Second World Ocean Assessment: Challenges and opportunities" which is a methodological investigation of a larger [OFI seed-funded project](https://www.qsslab.ca/post/2023-10-20-ofi-grant/).
 
 The lab enjoyed seeing old friends, making new connections with other attendees, and eating schnitzel and apple strudel. We are keen to advance these research projects with the valuable feedback and insight received at the conference and are already looking forward to STI in Bristol, UK in 2025!
-
-Stay up to date on QSSLab projects [here](https://www.qsslab.ca/project/).
 
 <!--more-->
