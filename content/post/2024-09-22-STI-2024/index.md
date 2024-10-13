@@ -4,6 +4,8 @@ date: 2024-09-22
 image:
   focal_point: 'right'
 ---
+By [Madelaine Hare](https://www.qsslab.ca/author/madelaine-hare/)
+
 The QSSLab presented several projects at the 28th International Conference on Science, Technology and Innovation Indicators, September 18-20, in Berlin, Germany.
 
 Geoff Krause presented his ongoing doctoral work "Well-tailored words: Comparing the fit of articles within scholarly journals to their citation rates".
