@@ -12,8 +12,8 @@ url_slides: 'metascience_lyon.html'
  
  
 # Talk start and end times.
-date: '2024-11-15T00:00:00Z'
-date_end: '2023-11-15T00:00:00Z'
+date: '2024-11-15T16:00:00Z'
+date_end: '2023-11-15T16:20:00Z'
 all_day: false
  
 # Do not modify this next line.
