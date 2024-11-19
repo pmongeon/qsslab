@@ -1,7 +1,7 @@
 ---
 title: "OpenAlex : Une alternative viable à Scopus et Web of Science pour la recherche et l'évaluation de la recherche?"
  
-event: "Métascience 2024 - Métascience, Recherche sur la Recherche et Science Ouverte en dialogue.
+event: "Métascience 2024 - Métascience, Recherche sur la Recherche et Science Ouverte en dialogue."
 event_url: "https://metascience2024.sciencesconf.org"
   
 authors:
