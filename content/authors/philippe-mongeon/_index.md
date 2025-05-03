@@ -3,9 +3,6 @@ title: Philippe Mongeon
 role: Associate Professor, Department of Information Science, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
-#bio: "I am an Associate Professor in the [Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) (Faculty of Management)
-at Dalhousie University, director of the Quantitative Science Studies Lab, Editor-in-Chief of the [Canadian Journal of Information and Library Science - La Revue canadienne des sciences de l'information et de bibliothéconomie (CJILS-RCSIB)](https://www.erudit.org/en/journals/cjils/),
-associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/)."
 
 # interests:
 # - Artificial Intelligence
