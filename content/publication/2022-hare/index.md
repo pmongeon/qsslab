@@ -2,7 +2,7 @@
 title: "The Impact of Mentorship on the Research Performance of LIS PhDs"
 
 authors:
-  - Maddie Hare
+  - Madelaine Hare
   - Philippe Mongeon
 date: '2022-09-07'
 doi: 'https://doi.org/10.5281/zenodo.6956737'

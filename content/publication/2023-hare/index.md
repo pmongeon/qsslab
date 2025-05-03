@@ -2,7 +2,7 @@
 title: "Do you cite what you tweet? Investigating the relationship between tweeting and citing research articles"
 
 authors:
-  - Maddie Hare
+  - Madelaine Hare
   - Geoff Krause
   - Keith MacKnight
   - Timothy D. Bowman

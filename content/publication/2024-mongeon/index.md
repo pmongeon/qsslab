@@ -3,7 +3,7 @@ title: "The coverage of DOAJ journals in Web of Science and Scopus"
 
 authors:
   - Marc-André Simard
-  - Maddie Hare
+  - Madelaine Hare
   - Isabel Basson
   - Vincent Larivière
   - Philippe Mongeon
