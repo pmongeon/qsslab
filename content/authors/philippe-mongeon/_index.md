@@ -29,12 +29,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pmongeon@dal.ca'  # For a direct email link, use "mailto:qsslab@dal.ca".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/philippemongeon
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en  
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/philippemongeon
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en  
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/pmongeon
