@@ -4,7 +4,6 @@ role: Master of Information/Master of Resource and Environmental Management, Dal
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Current members
 ---
 
 # Bio
