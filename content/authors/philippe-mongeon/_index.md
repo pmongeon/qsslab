@@ -3,11 +3,9 @@ title: Philippe Mongeon
 role: Associate Professor, Department of Information Science, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
-#bio: "I am an Associate Professor at the 
-#[School of Information Management](https://www.dal.ca/faculty/management/school-of-information-management.html) at Dalhousie University, 
-#director of the Quantitative Science Studies Lab, 
-#and associate member of the 
-#[Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/)."
+#bio: "I am an Associate Professor in the [Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) (Faculty of Management)
+at Dalhousie University, director of the Quantitative Science Studies Lab, Editor-in-Chief of the [Canadian Journal of Information and Library Science - La Revue canadienne des sciences de l'information et de bibliothéconomie (CJILS-RCSIB)](https://www.erudit.org/en/journals/cjils/),
+associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/)."
 
 # interests:
 # - Artificial Intelligence
@@ -49,12 +47,12 @@ social:
 #   link: authors/philippe-mongeon/mongeon-cv.pdf
 
 user_groups:
-  - Director
+  - Current Members
 ---
 
 # About me
 I am an Associate Professor in the [Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) (Faculty of Management)
 at Dalhousie University, director of the Quantitative Science Studies Lab, Editor-in-Chief of the [Canadian Journal of Information and Library Science - La Revue canadienne des sciences de l'information et de bibliothéconomie (CJILS-RCSIB)](https://www.erudit.org/en/journals/cjils/),
-associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/), and a visiting researcher at the [Centre for Science and Technology Studies](https://www.cwts.nl/).
+associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/).
 
 My research uses bibliometric and other quantitative methods to study the dynamics and practices of knowledge production, dissemination and use, as well as research evaluation and governance. More specifically, I work on a broad range of topics, such as research collaboration, scientific misconduct, scholarly publishing, data sharing, research funding, social media, networks, and the evolution of scientific fields. 
