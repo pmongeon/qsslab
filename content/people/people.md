@@ -18,7 +18,6 @@ content:
   user_groups:
     - Director
     - Current members
-    - Collaborators
     - Principal Investigators
     - Grad Students
     - Administration
