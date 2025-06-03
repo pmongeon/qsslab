@@ -5,7 +5,7 @@ bio: "My name is Vinson Li and I am a Research Assistant at Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - 
+  - Past Members
 ---
 
 # About me

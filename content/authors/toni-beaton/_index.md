@@ -4,7 +4,7 @@ role: School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups: 
-  - 
+  - Past Members
 ---
 
 # About Me

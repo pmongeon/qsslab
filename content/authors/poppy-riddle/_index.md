@@ -22,7 +22,7 @@ social:
   link: https://orcid.org/0000-0001-7862-7848
 
 user_groups:
-  - Current members
+  - Current Members
 ---
 
 # About me
