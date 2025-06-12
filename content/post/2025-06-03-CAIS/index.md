@@ -1,8 +1,8 @@
 ---
 title: "The 53rd annual conference of the Canadian Association for Information Science"
 date: 2025-06-03
-image:
-  focal_point: 'right'
+#image:
+#  focal_point: 'right'
 ---
 The Department of Information Science hosted the 53rd annual conference of the Canadian Association for Information Science (CAIS/ACSI) May 27-29th at the Faculty of Management, Dalhousie University. 
 
