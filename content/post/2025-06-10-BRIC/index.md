@@ -1,10 +1,10 @@
 ---
-title: "The 53rd annual conference of the Canadian Association for Information Science"
+title: "Bibliometrics and Research Impact Community (BRIC) conference"
 date: 2025-06-03
 image:
   focal_point: 'right'
 ---
-The Bibliometrics and Research Impact Community conference was held at the University of Montreal, MIL Campus, June 4-5, 2025. 
+The Bibliometrics and Research Impact Community (BRIC) conference was held at the University of Montreal, MIL Campus, June 4-5, 2025. 
 
 Geoff Krause presented a lightning talk on his study "Shifting scope and topics in LIS conference: A CAIS study" which analyzed over 30 years of proceedings of the Canadian Association for Information Science! 
 
